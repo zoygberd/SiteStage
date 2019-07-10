@@ -1,0 +1,37 @@
+body{
+    margin: 0;padding: 0;
+}
+.menu_list li,.menu_list ul li{
+    padding:0px 10px;
+    margin: 0px 20px;
+    list-style: none;
+}
+
+.menu_list{
+    display: flex;
+}
+.menu_list li a,.menu_list ul li a{
+    text-decoration: none;
+    
+}
+.droped {
+    width: 300px;
+    
+    display: none;
+}
+.droped ul{
+    width: 100px;
+    margin: 0;
+    box-sizing: border-box;
+}
+.menu_list li ul{
+    text-align: left;
+    padding: 0;
+}
+.menu_list li ul li{
+    margin: 0;
+    padding: 0;
+}
+.menu_list li:hover div{
+    display: flex;
+}
