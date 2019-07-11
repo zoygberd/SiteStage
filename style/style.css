@@ -1,37 +1,90 @@
-body{
-    margin: 0;padding: 0;
-}
-.menu_list li,.menu_list ul li{
-    padding:0px 10px;
-    margin: 0px 20px;
-    list-style: none;
+* {
+    margin: 0;
+    padding: 0;
 }
 
+/* Menu Pour Pc (General) ! */
+nav {
+    width: 100%;
+    height: 60px;
+    background-color: #62CBD9;
+    display: block;
+}
 .menu_list{
+    float: right;
+}
+.menu_list li,
+.droped ul li {
+    list-style: none;
+    padding: 10px;
+    width: 150px;
+    margin-top: 12px;
+}
+
+.menu_list {
     display: flex;
 }
-.menu_list li a,.menu_list ul li a{
+
+.menu_list li a,
+.droped ul li a {
     text-decoration: none;
-    
+    padding: 20px 20px 25px 20px;
+    font-family: 'Oswald', sans-serif;
+    color: #EB4221;
 }
-.droped {
-    width: 300px;
-    
-    display: none;
-}
-.droped ul{
-    width: 100px;
-    margin: 0;
-    box-sizing: border-box;
-}
-.menu_list li ul{
+
+.menu_list li ul {
     text-align: left;
     padding: 0;
 }
-.menu_list li ul li{
+
+.droped {
+    display: inline;
+    margin-top: 16px;
+    display: none;
+    background-color: white;
+}
+
+.droped ul {
+    width: 150px;
     margin: 0;
-    padding: 0;
+    box-sizing: border-box;
+    background-color: white;
+    border-right: 1px solid #8DE86D;
+    border-left: 1px solid #8DE86D;
 }
-.menu_list li:hover div{
+
+.droped ul li {
+    margin: 0;
+    padding: 5px;
+}
+
+.droped ul li a:hover,
+.menu_list li a:hover {
+    color:#CA6DE8;
+}
+
+.menu_list li:hover div {
     display: flex;
+    position: absolute;
 }
+/* Image du menu */
+.LogoM{
+    width: 400px;
+    float: left;
+}
+.LogoM span h1{
+    font-family: 'Karla', sans-serif;
+    font-size: 35px;
+    float: left;
+    padding: 3px;
+    letter-spacing: 4px;
+}
+.LogoM span h3{
+    font-family: 'Russo One', sans-serif;
+    font-size: 20px;
+    text-justify: kashida;
+    letter-spacing: 3px;
+    
+}
+/*  */
