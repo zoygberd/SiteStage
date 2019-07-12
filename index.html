@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
     <script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
-    <script src="java/java.js"></script>
+    <script src="js/java.js"></script>
     <link rel="stylesheet" href="style/style.css">
     <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Karla&display=swap" rel="stylesheet">
@@ -15,13 +15,11 @@
 </head>
 
 <body>
-        <!-- <div class="imageM">
-                <img src="images/logo.jpg" alt="">
-            </div> -->
     <nav>
        <div class="LogoM">
         <span> <h1>Orientation</h1> <h3>Maroc</h3></span>
-       </div> 
+        <!-- <img class="logoP" src="images/Vlogo.png"> -->
+    </div> 
         
         <ul class="menu_list">
             <li class="menu1_its"><a href="#">Acceuil</a></li>
@@ -118,6 +116,20 @@
             <li class="menu1_its"><a href="#">Doctorat</a></li>
         </ul>
     </nav>
+        
+    <div class="container">
+        <h1>JQSlider</h1>
+        <div class="slider-outer">
+          <img src="images/arrow-left.png" class="prev" alt="Prev">
+          <div class="slider-inner">
+            <img src="images/Slide1.jpg" id="Firstimage" class="active">
+            <img src="images/Slide2.jpg">
+            <img src="images/Slide3.jpg">
+            <img src="images/Slide4.jpg" id="Lastimage">
+          </div>
+          <img src="images/arrow-right.png" class="next" alt="Next">
+        </div>
+      </div>
 </body>
 
 </html>
