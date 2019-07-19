@@ -1,29 +1,15 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
-    <script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
-    <script src="js/java.js"></script>
-    <link rel="stylesheet" href="style/style.css">
-    <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Karla&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Russo+One&display=swap" rel="stylesheet">
-</head>
-
-<body>
-    <nav>
+<nav>
        <div class="LogoM">
+           <img src="./images/PLogo.png" alt="">
         <span> <h1>Orientation</h1> <h3>Maroc</h3></span>
         <!-- <img class="logoP" src="images/Vlogo.png"> -->
-    </div> 
-        
+        </div> 
+        <div class="toggle">
+            <i id="togB"class="fa fa-bars" aria-hidden="true"></i>
+        </div>
         <ul class="menu_list">
-            <li class="menu1_its"><a href="#">Acceuil</a></li>
-            <li class="menu1_its"><a href="#">Bac+5</a>
+            <li  class="menu1_its"><a id="acceuil" href="#">Acceuil</a></li>
+            <li class="menu1_its"><a id="Bac+5" href="#">Bac+5</a>
                 <div class="droped">
                         <ul>
                                 <li>
@@ -116,20 +102,17 @@
             <li class="menu1_its"><a href="#">Doctorat</a></li>
         </ul>
     </nav>
-        
-    <div class="container">
-        <h1>JQSlider</h1>
-        <div class="slider-outer">
-          <img src="images/arrow-left.png" class="prev" alt="Prev">
-          <div class="slider-inner">
-            <img src="images/Slide1.jpg" id="Firstimage" class="active">
-            <img src="images/Slide2.jpg">
-            <img src="images/Slide3.jpg">
-            <img src="images/Slide4.jpg" id="Lastimage">
-          </div>
-          <img src="images/arrow-right.png" class="next" alt="Next">
-        </div>
-      </div>
-</body>
-
-</html>
+    <div  class="SMobile" >
+    <ul class="MobileStyle">
+          <li><a href="#"> <i class="myFa fa fa-home"></i> Acceuil</a></li>
+          <li><a href="#"> <i class="myFa fa fa-university"></i> Bac+5</a></li>
+          <li><a href="#"> <i class="myFa fa fa-university"></i> License</a></li>
+          <li><a href="#"><i class="myFa fa fa-university"></i> Bac+2</a></li>
+          <li><a href="#"><i class="myFa fa fa-university"></i> Doctorat</a></li>
+          <li><a href="#"><i class="myFa fa fa-search"></i></i> Recherche</a></li>
+          <li><a href="#"><i class="myFa fa fa-search-plus"></i> Recherche Avance</a></li>
+          <?php include "NoConnected.php" ?>
+          
+      </ul>
+    </div>
+    

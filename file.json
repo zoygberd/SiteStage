@@ -1,0 +1,50 @@
+[
+    {
+        "NomEcole":"EST",
+        "Ville":"Fes",
+        "formations":["DUT","LP"],
+        "filieres" : [
+            "Genie informatique","Genie Biologique"
+                ],
+        "PlusDinfo":"lien vers le site"
+         
+    },
+    {
+        "NomEcole":"ost",
+        "Ville":"Fes",
+        "formations": [
+            "Deust",
+            "LP",
+            "Master",
+            "Cycle d'ingenieur"
+        ],
+        "filieres" : [
+            "Deust",
+            "LP",
+            "Master",
+            "Cycle d'ingenieur"
+                ],
+        "PlusDinfo":"lien vers le site"
+         
+    },
+    {
+        "NomEcole":"EST",
+        "Ville":"Casa",
+        "formations":["DUT","LP"],
+        "filieres" : [
+            "Genie informatique","Genie Biologique"
+                ],
+        "PlusDinfo":"lien vers le site"
+         
+    },
+    {
+        "NomEcole":"FST",
+        "Ville":"Settat",
+        "formations":["Deust","LP","Master","Cycle d'ingenieur"],
+        "filieres" : [
+            "Genie informatique","Genie Biologique"
+                ],
+        "PlusDinfo":"https://www.google.com/"
+    }
+
+]

@@ -1,0 +1,48 @@
+{
+	"news": [
+                {
+                    "titre": "Concours de l EST FES",
+                    "image":"./images/est-fes.png",
+                    "etablissement": "EST",
+                    "Ville": "Fes",
+                    "Date_Debut": "11/12/2000",
+                    "Date_fin": "13/1/2001",
+                    "candidats": "BAC+2",
+                    "niveau": "License Pro",
+                    "Description": "L est de fes announce concours d acces au titulaire d un BAC+2 pour joindre la premiere annee de license professionnele de technologie de fes en filieres :",
+                    "filieres": [
+                                    {
+                                        "nomF": "genie logiciel",
+                                        "programe": "Lien .."
+                                    },
+                                    {
+                                        "nomF": "genie logiciel",
+                                        "programe": "Lien .."
+                                    }
+                                ]
+                },
+                {
+                    "titre": "Concours de l EST FES",
+                    "image":"./images/diplomes.png",
+                    "etablissement": "EST",
+                    "Ville": "Fes",
+                    "Date_Debut": "11/12/2000",
+                    "Date_fin": "13/1/2001",
+                    "candidats": "BAC+2",
+                    "niveau": "License Pro",
+                    "Description": "L est de fes announce concours d acces au titulaire d un BAC+2 pour joindre la premiere annee de license professionnele de technologie de fes en filieres: ",
+                    "filieres": [
+                                    {
+                                        "nomF": "genie logiciel",
+                                        "programe": "Lien .."
+                                    },
+                                    {
+                                        "nomF": "genie logiciel",
+                                        "programe": "Lien .."
+                                    }
+
+                                ]
+                }
+	        ]
+
+}
