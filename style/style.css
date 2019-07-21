@@ -513,17 +513,9 @@ h1{
 }
 @media screen and (max-width: 470px){
   nav {
-  
-    height:120px;
-   
+    height:120px;  
 }
-
-
 .SMobile{
- 
   top:120px;
-
-}
-
-   
+}   
 }

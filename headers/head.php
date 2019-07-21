@@ -1,5 +1,4 @@
 <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
- 
   <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Karla&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Russo+One&display=swap" rel="stylesheet">

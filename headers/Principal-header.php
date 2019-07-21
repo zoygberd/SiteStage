@@ -9,7 +9,7 @@
         </div>
         <ul class="menu_list">
             <li  class="menu1_its"><a id="acceuil" href="#">Acceuil</a></li>
-            <li class="menu1_its"><a id="Bac+5" href="#">Bac+5</a>
+            <li class="menu1_its"><a id="Bac+5" href="bacP5.php">Bac+5</a>
                 <div class="droped">
                         <ul>
                                 <li>
@@ -46,7 +46,7 @@
                 </div>
                 
             </li>
-            <li class="menu1_its"><a href="#">License</a>
+            <li class="menu1_its"><a href="License.php">License</a>
                 <div class="droped">
                         <ul>
                                 <li>
@@ -72,7 +72,7 @@
                             </ul>
                 </div>
             </li>
-            <li class="menu1_its"><a href="#">Apres Bac</a>
+            <li class="menu1_its"><a href="ApresBac.php">Apres Bac</a>
                 <div class="droped">
                         <ul>
                                 <li>
@@ -111,8 +111,15 @@
           <li><a href="#"><i class="myFa fa fa-university"></i> Doctorat</a></li>
           <li><a href="#"><i class="myFa fa fa-search"></i></i> Recherche</a></li>
           <li><a href="#"><i class="myFa fa fa-search-plus"></i> Recherche Avance</a></li>
-          <?php include "NoConnected.php" ?>
           
+          <?php 
+          if( !isset($_SESSION['username']) ){
+            include "NoConnected.php";
+           
+            }else if(isset($_SESSION['username'])){
+              include "Connected.php";
+            }
+            ?>
       </ul>
     </div>
     

@@ -1,0 +1,64 @@
+<?php session_start(); 
+$id = $_GET['id'];
+?>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <?php include "./headers/head.php";?>
+  <script src="js/java.js"></script>
+  <link rel="stylesheet" href="style/style.css">
+  <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+</head>
+
+<body>
+  <!-- header principal -->
+  <?php
+      include "./headers/Principal-header.php";
+    ?>
+  <br>
+  <!-- sous header -->
+  <?php
+ if(!isset($_SESSION['username'])){
+  include "./headers/Sous-header1.php";
+ 
+  }else if(isset($_SESSION['username'])){
+    include "./headers/Sous-header2.php";
+  }
+      
+  ?>
+  <!-- News Here : -->
+  <div class="The New">
+    <div class="New">
+
+    </div>
+    <?php
+          $jsondata = file_get_contents("./JsonFiles/news.Json");
+          $json = json_decode($jsondata,true);
+        ?>
+    <?php foreach ($json['news'] as $news) { 
+        if($news['id'] == $id){
+        ?>
+            <div class="NewBID">
+                <h1>voici le new : <?php echo $news['titre']; ?></h1>
+            </div>
+    <?php }} ?>
+  </div>
+
+  <!-- Foooter  -->
+  <?php
+      include "./footer/footer.php";
+  ?>
+  <!-- Script -->
+  <script>
+        $('document').ready(function () {
+          $('#acceuil').css('color', '#CA6DE8');
+        }
+  </script>
+</body>
+
+</html>
