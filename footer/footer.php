@@ -28,24 +28,6 @@
     
     
     </table>
-      <!-- <table>
-        <tr>
-         
-        </tr>
-        <tr>
-         
-        </tr>
-        <tr>
-          <th> telephone :</th>
-          <td>0777861356</td>
-        </tr>
-        <tr>
-         
-        </tr>
-        <tr>
-          
-        </tr>
-      </table> -->
   </div>
   <div class="p2">
   <table>
@@ -62,11 +44,11 @@
   <div class="p3">
       <ul>
         <li><h4>liens utiles</h></li>
-        <li><a href="">licence</a></li>
-        <li><a href="">Bac</a></li>
-        <li><a href="">cycle d'ingenieur</a></li>
-        <li><a href="">master</a></li>
-        <li><a href="">doctorat</a></li>
+        <li><a href="https://www.linguee.fr/anglais-francais/traduction/license.html">licence</a></li>
+        <li><a href="https://www.studyrama.com/revision-examen/bac/les-sujets-et-corriges-du-bac">Bac</a></li>
+        <li><a href="https://www.maroc.campusfrance.org/les-ecoles-d-ingenieur">cycle d'ingenieur</a></li>
+        <li><a href="https://www.studyrama.com/formations/diplomes/master/">master</a></li>
+        <li><a href="https://fr.wikipedia.org/wiki/Doctorat">doctorat</a></li>
       </ul>
   </div>
 
