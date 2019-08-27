@@ -26,8 +26,8 @@ $pdo = conn();
             <i id="togB"class="fa fa-bars" aria-hidden="true"></i>
         </div>
         <ul class="menu_list">
-            <li  class="menu1_its"><a id="acceuil" class="menu1_it" href="./index.php">Acceuil</a></li>
-            <li class="menu1_its"><a id="Bac+5" class="menu1_it" href="bacP5.php">Bac+5</a>
+            <li  class="menu1_its"><a id="acceuil" href="../index.php">Acceuil</a></li>
+            <li class="menu1_its"><a id="Bac+5" href="../bacP5.php">Bac+5</a>
                 <div class="droped">
                         <ul class="c1">
                                             <li class="ho4">
@@ -39,7 +39,7 @@ $pdo = conn();
                                                 $t->execute(['Master S']);
                                                 while($row = $t->fetch(PDO::FETCH_ASSOC)){
                                             ?>
-                                        <li><a class="itemN" href="./new.php?id=<?php echo $row['ID']; ?>"><?php echo $row['titre'] ?></a></li>
+                                        <li><a href="../new.php?id=<?php echo $row['ID']; ?>"><?php echo $row['titre'] ?></a></li>
                                             
                                             <?php } ?>
 
@@ -49,7 +49,7 @@ $pdo = conn();
                                                 $t->execute(['Master S']);
                                                 while($row = $t->fetch(PDO::FETCH_ASSOC)){
                                             ?>
-                                        <li><a class="itemN" href="./new.php?id=<?php echo $row['ID']; ?>"><?php echo $row['titre'] ?></a></li>
+                                        <li><a href="../new.php?id=<?php echo $row['ID']; ?>"><?php echo $row['titre'] ?></a></li>
                                             
                                             <?php } ?>
                             </ul>
@@ -64,7 +64,7 @@ $pdo = conn();
                                             $t->execute(['Master F']);
                                             while($row = $t->fetch(PDO::FETCH_ASSOC)){
                                         ?>
-                                    <li><a class="itemN" href="./new.php?id=<?php echo $row['ID']; ?>"><?php echo $row['titre'] ?></a></li>
+                                    <li><a href="../new.php?id=<?php echo $row['ID']; ?>"><?php echo $row['titre'] ?></a></li>
                                         
                                         <?php } ?>
                                         
@@ -74,7 +74,7 @@ $pdo = conn();
                                             $t->execute(['Master F']);
                                             while($row = $t->fetch(PDO::FETCH_ASSOC)){
                                         ?>
-                                    <li><a class="itemN" href="./new.php?id=<?php echo $row['ID']; ?>"><?php echo $row['titre'] ?></a>/<li>
+                                    <li><a href="../new.php?id=<?php echo $row['ID']; ?>"><?php echo $row['titre'] ?></a>/<li>
                                         
                                         <?php } ?>
                             </ul>
@@ -88,7 +88,7 @@ $pdo = conn();
                                             $t->execute(['Cycle dIng']);
                                             while($row = $t->fetch(PDO::FETCH_ASSOC)){
                                         ?>
-                                    <li><a class="itemN" href="./new.php?id=<?php echo $row['ID']; ?>"><?php echo $row['titre'] ?></a></li>
+                                    <li><a href="../new.php?id=<?php echo $row['ID']; ?>"><?php echo $row['titre'] ?></a></li>
                                         
                                         <?php } ?>
                                         
@@ -98,14 +98,14 @@ $pdo = conn();
                                             $t->execute(['Cycle dIng']);
                                             while($row = $t->fetch(PDO::FETCH_ASSOC)){
                                         ?>
-                                    <li><a class="itemN" href="./new.php?id=<?php echo $row['ID']; ?>"><?php echo $row['titre'] ?></a></li>
+                                    <li><a href="../new.php?id=<?php echo $row['ID']; ?>"><?php echo $row['titre'] ?></a></li>
                                         
                                         <?php } ?>
                             </ul>
                 </div>
                 
             </li>
-            <li class="menu1_its"><a class="menu1_it" href="License.php">License</a>
+            <li class="menu1_its"><a href="License.php">License</a>
                 <div class="droped">
                         <ul class="c2">
                                 <li class="ho4">
@@ -118,7 +118,7 @@ $pdo = conn();
                                     $t->execute(['LP']);
                                     while($row = $t->fetch(PDO::FETCH_ASSOC)){
                                 ?>
-                               <li><a class="itemN" href="./new.php?id=<?php echo $row['ID']; ?>"><?php echo $row['titre'] ?></a></li>
+                               <li><a href="../new.php?id=<?php echo $row['ID']; ?>"><?php echo $row['titre'] ?></a></li>
                                 
                                 <?php } ?>
                                 
@@ -128,7 +128,7 @@ $pdo = conn();
                                     $t->execute(['LP']);
                                     while($row = $t->fetch(PDO::FETCH_ASSOC)){
                                 ?>
-                               <a class="itemN" href="./new.php?id=<?php echo $row['ID']; ?>"><?php echo $row['titre'] ?></a><br><br>
+                               <a href="../new.php?id=<?php echo $row['ID']; ?>"><?php echo $row['titre'] ?></a><br><br>
                                 
                                 <?php } ?>
                             </ul>
@@ -143,7 +143,7 @@ $pdo = conn();
                                     $t->execute(['LF']);
                                     while($row = $t->fetch(PDO::FETCH_ASSOC)){
                                 ?>
-                               <li><a class="itemN" href="./new.php?id=<?php echo $row['ID']; ?>"><?php echo $row['titre'] ?></a></li>
+                               <li><a href="../new.php?id=<?php echo $row['ID']; ?>"><?php echo $row['titre'] ?></a></li>
                                 
                                 <?php } ?>
                                 
@@ -153,13 +153,13 @@ $pdo = conn();
                                     $t->execute(['LF']);
                                     while($row = $t->fetch(PDO::FETCH_ASSOC)){
                                 ?>
-                               <li><a class="itemN" href="./new.php?id=<?php echo $row['ID']; ?>"><?php echo $row['titre'] ?></a></li>
+                               <li><a href="../new.php?id=<?php echo $row['ID']; ?>"><?php echo $row['titre'] ?></a></li>
                                 
                                 <?php } ?>
                             </ul>
                 </div>
             </li>
-            <li class="menu1_its"><a class="menu1_it" href="ApresBac.php">Apres Bac</a>
+            <li class="menu1_its"><a href="../ApresBac.php">Apres Bac</a>
                 <div class="droped">
                         <ul class="c3">
                                 <li class="ho4">
@@ -172,7 +172,7 @@ $pdo = conn();
                                          // cinqans pour les ecoles dont on peut etudier 5 ans depuis bac ! 
                                    while($row = $t->fetch(PDO::FETCH_ASSOC)){
                                 ?>
-                               <li><a class="itemN" href="./new.php?id=<?php echo $row['ID']; ?>"><?php echo $row['titre'] ?></a></li>
+                               <li><a href="../new.php?id=<?php echo $row['ID']; ?>"><?php echo $row['titre'] ?></a></li>
                                 <?php } ?>
                                 
                                 <?php
@@ -181,7 +181,7 @@ $pdo = conn();
                                     $t->execute(['LF']);
                                     while($row = $t->fetch(PDO::FETCH_ASSOC)){
                                 ?>
-                               <li><a class="itemN" href="./new.php?id=<?php echo $row['ID']; ?>"><?php echo $row['titre'] ?></a></li>
+                               <li><a href="../new.php?id=<?php echo $row['ID']; ?>"><?php echo $row['titre'] ?></a></li>
                                 
                                 <?php } ?>               
                                 
@@ -190,44 +190,44 @@ $pdo = conn();
                                 <li class="ho4">
                                     <h4 >ecoles</h4>
                                 </li>
-                                <li><a href="ecoleAll.php?ecole=EST">EST</a></li>
-                                <li><a href="ecoleAll.php?ecole=ENSA">ENSA</a></li>
-                                <li><a href="ecoleAll.php?ecole=ENCG">ENCG</a></li>
-                                <li><a href="ecoleAll.php?ecole=ENS">ENS</a></li>
-                                <li><a href="ecoleAll.php?ecole=ENSAM">ENSAM</a></li>
-                                <li><a href="ecoleAll.php?ecole=IAV">APESA(IAV)</a></li>
-                                <li><a href="ecoleAll.php?ecole=ENAM">ENAM</a></li>
+                                
+                                <li><a href="#">FST</a></li>
+                                <li><a href="#">FSJE</a></li>
+                                <li><a href="#">FMP</a></li>
+                                <li><a href="#">FSES</a></li>
+                                <li><a href="#">FSDM</a></li>
                             </ul>
                             <ul class="c4">
                                 <li class="ho4">
                                     <h4>facultees</h4>
                                 </li >
                                 
-                                <li><a href="ecoleAll.php?ecole=FST">FST</a></li>
-                                <li><a href="ecoleAll.php?ecole=FSJES">FSJES</a></li>
-                                <li><a href="ecoleAll.php?ecole=FMP">FMP</a></li>
-                                <li><a href="ecoleAll.php?ecole=FLSH">FLSH</a></li>
-                                <li><a href="ecoleAll.php?ecole=FS">FS</a></li>
+                                <li><a href="#">FST</a></li>
+                                <li><a href="#">FSJE</a></li>
+                                <li><a href="#">FMP</a></li>
+                                <li><a href="#">FSES</a></li>
+                                <li><a href="#">FSDM</a></li>
                             </ul>
                 </div>
             </li>
            
-            <li class="menu1_its"><a class="menu1_it" href="./doctorat.php">Doctorat</a></li>
+            <li class="menu1_its"><a href="../doctorat.php">Doctorat</a></li>
         </ul>
     </nav>
     <div  class="SMobile" >
     <ul class="MobileStyle">
-          <li><a href="index.php"> <i class="myFa fa fa-home"></i> Acceuil</a></li>
-          <li><a href="bacP5.php"> <i class="myFa fa fa-university"></i> Bac+5</a></li>
-          <li><a href="License.php"> <i class="myFa fa fa-university"></i> License</a></li>
-          <li><a href="ApresBac.php"><i class="myFa fa fa-university"></i>Apres Bac</a></li>
-          <li><a href="doctorat.php"><i class="myFa fa fa-university"></i> Doctorat</a></li>
+    <li><a href="../index.php"> <i class="myFa fa fa-home"></i> Acceuil</a></li>
+          <li><a href="../bacP5.php"> <i class="myFa fa fa-university"></i> Bac+5</a></li>
+          <li><a href="../License.php"> <i class="myFa fa fa-university"></i> License</a></li>
+          <li><a href="../ApresBac.php"><i class="myFa fa fa-university"></i>Apres Bac</a></li>
+          <li><a href="../doctorat.php"><i class="myFa fa fa-university"></i> Doctorat</a></li>
+          
           <?php 
           if( !isset($_SESSION['username']) ){
-            include "NoConnected.php";
+            include "../headers/NoConnected.php";
            
             }else if(isset($_SESSION['username'])){
-              include "Connected.php";
+              include "../headers/Connected.php";
             }
             ?>
       </ul>

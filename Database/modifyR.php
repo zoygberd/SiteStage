@@ -2,7 +2,7 @@
 $id=$_GET['id'];
 require "../Database/pdo2.inc";
 $pdo = connecto();
-$req = "SELECT * FROM invit WHERE id=?";
+$req = "SELECT * FROM result WHERE id=?";
 $t = $pdo->prepare($req);
 $t->execute([$id]);
 $data = $t->fetch(PDO::FETCH_ASSOC);
@@ -32,7 +32,7 @@ $data = $t->fetch(PDO::FETCH_ASSOC);
 
 <div class="modifyF">
     <h6 style="margin:20px 20px;">re entrer les champs que vous voullez modifer</h6>
-    <form method="get" action="../Database/modifyF.php?id=<?php echo $id; ?>">
+    <form method="get" action="../Database/modifyRF.php?id=<?php echo $id; ?>">
         <table class="welcomeAdmin">
         <tr>
             <th>Titre du Concours</th>
@@ -41,31 +41,15 @@ $data = $t->fetch(PDO::FETCH_ASSOC);
             <th>Nom de l ecole</th>
             <td><input name="Ecole" type="text" placeholder="hereT" value="<?php echo $data['Ecole']; ?>"></td>
             <th>Nom De la ville</th>
-            <td><input name="ville" type="text" placeholder="hereT" value="<?php echo $data['ville']; ?>"></td>
-        </tr>
-        <tr>
-            <th>Conditions </th>
-            <td colspan="2"> <textarea value="" name="concerne" class="form-control" rows="5" id="comment" name="text"><?php echo $data['concerne']; ?></textarea></td>
-            <th>Dossier de candidature :</th>
-            <td colspan="2"><textarea name="dossier" class="form-control" rows="5" id="comment" name="text"><?php echo $data['dossier']; ?></textarea></td>
+            <td><input name="ville" type="text" placeholder="hereT" value="<?php echo $data['Ville']; ?>"></td>
         </tr>
         <tr>
             <th>Filieres</th>
-            <td colspan="2"> <textarea name="filiere" class="form-control" rows="5" id="comment"></textarea></td>
+            <td colspan="2"> <textarea name="filieres" class="form-control" rows="5" id="comment" name="text"><?php echo $data['filieres']; ?></textarea></td>
             <th>Lien vers les resultats</th>
-            <td colspan="2"><textarea name="link" class="form-control" rows="5" id="comment" name="text"></textarea></td>
+            <td colspan="2"><textarea name="linkres" class="form-control" rows="5" id="comment" name="text"><?php echo $data['lien']; ?></textarea></td>
         </tr>
-        <tr>
-            <th>Etapes Du concours</th>
-            <td colspan="3"> <textarea value="" name="etapes" class="form-control" rows="5" id="comment" name="text"><?php echo $data['etapes_conc']; ?></textarea></td>
-        </tr>
-        <tr>
-            
-            <th>Description Concours</th>
-            <td colspan="3"> <textarea value="" name="textfield" class="form-control" rows="5" id="comment" name="text"><?php echo $data['text_ab']; ?></textarea></td>
-           
-          </tr>
-          <tr>
+         <tr>
           <th>Date</th>
             <td><input value="<?php echo $data['date']; ?>" name="date" type="text" placeholder="ann-mois-jour"></td>
           </tr>
@@ -74,11 +58,11 @@ $data = $t->fetch(PDO::FETCH_ASSOC);
           </tr>
           <tr>
             <th>introduction</th>
-            <td colspan="3"> <textarea value="" name="intro" class="form-control" rows="5" id="comment" name="text"><?php echo $data['intro']; ?></textarea></td>
+            <td colspan="3"> <textarea name="intro" class="form-control" rows="5" id="comment" name="text"><?php echo $data['intro']; ?></textarea></td>
         </tr>
         <tr>
-          <th>Son ID</th>
-            <td><input value="<?php echo $data['ID']; ?>" name="id" type="text" placeholder="id here"></td>
+          <th>Id de new</th>
+            <td><input value="<?php echo $id; ?>" name="id" type="text" placeholder="ID here"></td>
           </tr>
           <tr>
           <th>Niveau :</th>
@@ -99,7 +83,7 @@ $data = $t->fetch(PDO::FETCH_ASSOC);
             </select></td>
           </tr>
         </table>
-        <button name="newB" type="submit">Modifier</button>
+        <button  name="newB" type="submit" class="btn btn-light">ajouter le new</button>
     </form>
     
 </div>

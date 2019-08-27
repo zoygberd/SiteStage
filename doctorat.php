@@ -57,9 +57,9 @@ include "./Database/pdo2.inc";?>
   <?php
           $pdo = connecto();
           
-      $req = "SELECT * FROM invit WHERE pour = ? OR pour = ? pour = ? OR pour = ? pour = ? OR pour = ? pour = ? ORDER BY ID DESC Limit 20";
-      $t = $pdo->prepare($req);
-      $t->execute(['DUT','DEUG','DEUST','cinqans','DT','TS','BTS']);//TS: technicien specialise 
+          $req = "SELECT * FROM invit WHERE pour = ? ORDER BY ID DESC Limit 20";
+          $t = $pdo->prepare($req);
+          $t->execute(['Doctorat']);
           while($row = $t->fetch(PDO::FETCH_ASSOC)){
           ?>
           
@@ -91,9 +91,9 @@ include "./Database/pdo2.inc";?>
           <?php
           $pdo = connecto();
           $pdo = connecto();
-          $req = "SELECT * FROM result WHERE pour = ? OR pour = ? pour = ? OR pour = ? pour = ? OR pour = ? pour = ? ORDER BY ID DESC Limit 20";
+          $req = "SELECT * FROM result WHERE pour = ? ORDER BY ID DESC Limit 20";
           $t = $pdo->prepare($req);
-          $t->execute(['DUT','DEUG','DEUST','cinqans','DT','TS','BTS']);//TS: technicien specialise 
+          $t->execute(['Doctorat']);
           while($row = $t->fetch(PDO::FETCH_ASSOC)){
           ?>
           

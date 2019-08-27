@@ -1,58 +1,76 @@
-<!-- Starting Footer -->
 <div class="footer">
-    <div class="contain-footer">
-
-      <div class="part">
-        <p>Orientation Maroc.ma est la plateforme leader de l'orientation et l'éducation au Marocest éditée par or-Maroc Company.</p>
-      </div>
-
-      <div class="part">
-        <h1>Liens Utiles</h1>
-        <ul>     
-          <li><a href="#"><i class="fa fa-graduation-cap" aria-hidden="true"></i>Baccalauréat</a></li>
-          <li><a href="#"><i class="fa fa-graduation-cap" aria-hidden="true"></i>Matières</a></li>
-          <li><a href="#"><i class="fa fa-graduation-cap" aria-hidden="true"></i>Écoles au Maroc
-          </a></li>
-          <li><a href="#"><i class="fa fa-graduation-cap" aria-hidden="true"></i>Branches</a></li>
-          <li><a href="#"><i class="fa fa-graduation-cap" aria-hidden="true"></i>Groupes établissements Maroc</a></li>
-        </ul>
-      </div>
-
-      <div class="part">
-        <h1>Liens Utiles</h1>
-        <ul>
-          <li><a href="#"><i class="fa fa-graduation-cap" aria-hidden="true"></i>Licences</a></li>
-          <li><a href="#"><i class="fa fa-graduation-cap" aria-hidden="true"></i>Masters</a></li>
-          <li><a href="#"><i class="fa fa-graduation-cap" aria-hidden="true"></i>Doctorats</a></li>
-          <li><a href="#"><i class="fa fa-graduation-cap" aria-hidden="true"></i>Universités au Maroc</a></li>
-          <li><a href="#"><i class="fa fa-graduation-cap" aria-hidden="true"></i>Offres d'emploi</a></li>
-        </ul>
-      </div>
-
-      <div class="part4 ">
-        <div class="social-icons">
-          <ul>
-            <li><a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-            <li><a href=""><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-            <li><a href=""><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
-            <li><a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-          </ul>
-        </div>
+  <div class="p1">
+  <table>
+      <tr>
         
-      </div>
-
-    <div class="sv-order"></div>
+        <th><a href="#"><i class="fa fa-facebook-f fa-2x "></i>acebook :</a> </th>
+          <td>Orientation Maroc</td>
+      </tr>
+      <tr>
+        <td>   <a href="#"><i class="fa fa-twitter fa-2x "></i> Twitter :</a></td>
+          <td>Oriented_M</td>
+      </tr>
+      <tr>
+     
+        <td>  <a href="#"><i class="fa fa-envelope  fa-2x" aria-hidden="true"></i>Email :</a></td>
+          <td>Orientation@support.com</td>
+      </tr>
+      <tr>
+        <td>   <a href="#"><i class="fa fa-youtube fa-2x "></i>Youtube :</a></td>
+       
+          <td>Orientation Maroc</td>
+      </tr>
+      <tr>
+        <td>   <a href="#"><i class="fa fa-instagram fa-2x "></i>Instagram :</a> </td>
+          <td>Oriented_M</td>
+      </tr>
+     
     
-    </div>
+    
+    </table>
+      <!-- <table>
+        <tr>
+         
+        </tr>
+        <tr>
+         
+        </tr>
+        <tr>
+          <th> telephone :</th>
+          <td>0777861356</td>
+        </tr>
+        <tr>
+         
+        </tr>
+        <tr>
+          
+        </tr>
+      </table> -->
+  </div>
+  <div class="p2">
+  <table>
+        <tr>
+          <th> envoyer nous un message  :</th>
+          <td> <textarea name="" class="select" id="misage" cols="30" rows="3"></textarea></td> 
+        </tr>
+        <tr>
+          <td><button class="btn" onclick="mesager()"  >envoyer</button></td>
+        </tr>
+        
+      </table>
+  </div>
+  <div class="p3">
+      <ul>
+        <li><h4>liens utiles</h></li>
+        <li><a href="">licence</a></li>
+        <li><a href="">Bac</a></li>
+        <li><a href="">cycle d'ingenieur</a></li>
+        <li><a href="">master</a></li>
+        <li><a href="">doctorat</a></li>
+      </ul>
+  </div>
 
-    <div class="lit-footer">
-      <!--for copyrith -->
-
-    </div>
-
-    </div>
 </div>
-<!-- Ending Footer -->
-
-</body>
-</html>
+<div class="p4">
+      <h3>copyright@2019</h3>
+  </div>

@@ -1,5 +1,4 @@
-<?php session_start(); 
-include "./Database/pdo2.inc";?>
+<?php session_start(); ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -24,47 +23,48 @@ include "./Database/pdo2.inc";?>
 
 <div class="adminF">
     <h6 style="margin:20px 20px;">vous etes connectee en tant que l Admin ! vous puvez ajouter des nouvelles actualites</h6>
-    <form method="get" action="./Database/pourSo.php">
+    <h5> <span style="color:red"> veuillez ecrire le nom d ecole en Majuscule <span style="color:blue"> Exemple :</span> <span style="color:green"> <br>FSJE <br> FST ...etc</span></span></h5>
+    <h5> <span style="color:red"> veuillez ecrire le nom de ville en miniscule <span style="color:blue"> Exemple :</span> <span style="color:green"> <br>agadir <br> fes ...etc</span></span></h5>
+    <form method="get" action="./Database/pourRes.php">
         <table class="welcomeAdmin">
         <tr>
-            <th>Titre du Concours</th>
+            <th>Titre</th>
             <td><input name="titre" type="text" placeholder="hereT"></td>
-           
             <th>Nom de l ecole</th>
-            <td><input name="Ecole" type="text" placeholder="hereT"></td>
+            <td>
+            <select class="select" id="ecoleh" name="Ecole">
+                            <option value="" selected></option>
+                            <option value="ENSA">ENSA</option>
+                            <option value="EST">EST</option>
+                            <option value="FST">FST</option>
+                            <option value="ENCG">ENCG</option>
+                            <option value="ENS">ENS</option>
+                            <option value="ENSET">ENSET</option>
+                            <option value="EHTP">EHTP</option>
+                            <option value="ENSAM">ENSAM</option>
+                            <option value="ENSIAS">ENSIAS</option>
+                            <option value="INPT">INPT</option>
+                            <option value="EMI">EMI</option>
+                            <option value="INSEA">INSEA</option>
+                            <option value="IAV">IAV</option>
+                            <option value="INSEA">INSEA</option>
+                            <option value="FSJES">FSJES</option>
+                            <option value="FLSH">FLSH</option>
+                            <option value="FS">FS</option>
+                            <option value="FMP">FMP</option>
+                        </select>
+          </td>
             <th>Nom De la ville</th>
             <td><input name="ville" type="text" placeholder="hereT"></td>
         </tr>
         <tr>
-            <th>Conditions </th>
-            <td colspan="2"> <textarea name="concerne" class="form-control" rows="5" id="comment" name="text"></textarea></td>
-            <th>Dossier de candidature :</th>
-            <td colspan="2"><textarea name="dossier" class="form-control" rows="5" id="comment" name="text"></textarea></td>
-        </tr>
-        <tr>
-            <th>Etapes Du concours</th>
-            <td colspan="3"> <textarea name="etapes" class="form-control" rows="5" id="comment" name="text"></textarea></td>
-        </tr>
-        <tr>
-            
-            <th>Description Concours</th>
-            <td colspan="3"> <textarea name="textfield" class="form-control" rows="5" id="comment" name="text"></textarea></td>
-           
-          </tr>
-          <tr>
-            
-            <th>Lien vers le site du conc ..</th>
-            <td colspan="3"> <textarea name="link" class="form-control" rows="5" id="comment" name="text"></textarea></td>
-           
-          </tr>
-          <tr>
-            
             <th>Filieres</th>
-            <td colspan="3"> <textarea name="filieres" class="form-control" rows="5" id="comment" name="text"></textarea></td>
-           
-          </tr>
-          <tr>
-          <th>Date</th>
+            <td colspan="2"> <textarea name="filieres" class="form-control" rows="5" id="comment"></textarea></td>
+            <th>Lien vers les resultats</th>
+            <td colspan="2"><textarea name="linkres" class="form-control" rows="5" id="comment" name="text"></textarea></td>
+        </tr>
+         <tr>
+          <th>Date</span></th>
             <td><input name="date" type="text" placeholder="ann-mois-jour"></td>
           </tr>
           <th>URL photo</th>
@@ -76,7 +76,7 @@ include "./Database/pdo2.inc";?>
         </tr>
         <tr>
           <th>Niveau :</th>
-          <td> <select name="pour">
+            <td> <select name="pour">
             <option value="LP">LP</option>
             <option value="LF">LF</option>
             <option value="Master S">Master S</option>

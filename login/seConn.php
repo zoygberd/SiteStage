@@ -7,80 +7,67 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Document</title>
+  <?php include "../headers/head.php"; ?>
   <script src="../js/java.js"></script>
   <link rel="stylesheet" href="../style/style.css">
+  <link rel="stylesheet" href="../style/styleTable.css">
+  <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
   <?php
       include "../headers/head.php";
       
   ?>
+  <style>
+    *{
+      color:white;
+    }
+    a{
+      color:white;
+    }
+  </style>
 </head>
 <body>
-
+ <!-- header principal -->
+ <?php
+      include "../headers/headerPL.php";
+    ?>
+     
+  <br>
   <br>
   <div class="card" style="width: 100%;text-align: center;margin-top:100px">
     <img class="card-img-top" style="width: 400px;" src="../images/logo.png" alt="Card image cap">
     <div class="card-body">
-      <form method="get">
+      <form method="get" action="sEC.php">
 
-        <div class="form-group">
-          <label for="exampleInputEmail1">Email</label>
-          <input name="email" type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
-            placeholder="Enter email">
+      <div class="login-box">
+          <h1 style="border-bottom: 6px solid #4caf50;  margin-bottom: 10px;">Login</h1>
+          <div class="textbox">
+            <i class="fa fa-user"></i>
+            <input class="inputa" name="email" type="email" placeholder="Email">
+          </div>
 
-        </div>
-        <div class="form-group">
-          <label for="exampleInputPassword1">mot de passe</label>
-          <input name="password" type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
-        </div>
-
-        <button type="button" id="btnMdO" class="btn btn-link">mot de passe oublie ?</button>
-        <div class="mdpO">
-          <input type="text" class="form-control" id="exampleInputtext1" placeholder="entrez votre email ici">
-          <button type="submit" style="margin-top:20px;" class="btn btn-primary">envoyer</button>
-        </div>
-
-    </div>
+          <div class="textbox">
+            <i class="fa fa-lock"></i>
+            <input class="inputa" name="password" type="password" placeholder="Password">
+          </div>
+          <button style="color:white;border:2px solid #CA6DE8;" name="comm2" type="submit" class="btn" >Sign in</button><br> <br>
+          <button style="color:white" type="button" id="btnMdO" class="btn" >mot de passe oublie ?</button>
+          
+        
 
     <div class="well">
     </div>
-
-    <button name="comm2" type="submit" class="btn btn-primary">se connecter</button>
     </form>
-  </div>
-  </div>
+    <div class="mdpO">
+          <form action="forgot.php" method="get">
+              <input class="inputa" name="forgot" type="email" placeholder="Entrer Votre Email"> <br>
 
-  <?php
-  include "../database/PDO.inc";
-  function getUser($email,$password){
-    $conn = connect();
-    $req = "SELECT Nom FROM logins WHERE Email=? AND MotDp=?";
-    $t = $conn->prepare($req);
-    $t->execute([$email,$password]);
-    $result = $t->fetch(PDO::FETCH_ASSOC);
-    return $result['Nom'];
-  }
-  if(isset($_GET['comm2'])){
-                    $email = $_GET['email'];
-                    $password = $_GET['password'];
-                    $conn = connect();
-                    $req = "SELECT * FROM logins WHERE Email=? AND MotDp=?";
-                    $t = $conn->prepare($req);
-                    $t->execute([$email,$password]);
-                    if($t->fetch()){
-                        $username = getUser($email,$password);
-                        $_SESSION['username']= $username;
-                        $_SESSION['email']= $email;
-                        echo "ohayooo ". $_SESSION['username'];
-                        header('location:../index.php');
-                    }else{
-                      ?>
-                      <script>
-                      alert('mot de passe ou email sont incorettent');
-                      </script>
-                      <?php
-                    }
-                  }
-?>
+              <input  style="color:white;border:2px solid #CA6DE8;margin-top:8px;" style="color:white;"id="btnMdO" type="submit" class="btn" value="Envoyer">
+          </form>
+        </div>
+  </div>
+  </div>
+  </div>
+  
   <?php
             include "../footer/footer.php";
         ?>

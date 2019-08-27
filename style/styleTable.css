@@ -15,64 +15,118 @@
         text-align: center;
     }
 }
-.articleD{
-    width: 80%;
-    height: 340px;
-    
-    margin: 30px 10px;
-    display: block;
-    border-radius: 10px;
-    overflow: hidden;
-}
-.txtand{
-    
-    float: left;
-    width: 47%;
-    height: 300px;
-    text-align: center;
-    background-color: #62CBD9;
-    border-right:4px solid #8DE86D;
-}
-.txtand img{
-    height: 200px;
-    width: 100%;
-    border-bottom:4px solid #8DE86D;
-}
-.contenuD{
-  
-    height: 300px;
-    float: left;
-    width: 46%;
-    text-align: center;
-    border-bottom:4px solid #8DE86D;
-    border-right:4px solid #62CBD9;
-}
-.contenuD h1{
-   height: 60px;
-   background-color: #62CBD9;
-   text-align: center;
-   border-bottom:4px solid #8DE86D;
-}
-.contenuD p{
-    height: 150px;
-}
-.contenuD a{
-    color: red;
+/* contenu de news */
+.iconC i{
+    color:red;
     float: right;
-    text-align: center;
-    margin: 20px 10px;
 }
-.iconC a{
-    color: red;
+.btn{
+    color:white;
+  }
+ 
+  .dark{
+    padding:15px;
+    background:#35424a;
+    color:#ffffff;
+    margin-top:10px;
+    margin-bottom:10px;
+  }
+.placeRight{
+    width: 30%;
+    float: right;
+    margin:20px;
 }
-.iconC{
-    float:right;
+.PlaceLeft{
+    float:left;
+    width:67%;
+}
+  aside#sidebar .quote input, aside#sidebar .quote textarea{
+    width:90%;
+    padding:5px;
+  }
+  #main-col{
+    float:left;
+    width:100%;
+    margin-top:20px;
+     background-color:#e6e6e6;
+}
+  @media screen and (max-width: 850px){
+    .PlaceLeft{
+        width:100%;
+    }
+    .placeRight{
+        width: 90%;
+        float: none;
+        margin:10px;
+        padding:20px;
+        
+    }
+    #main-col{
+        float:left;
+        width:100%;
+        margin-top:20px;
+         background-color:#e6e6e6;
+    }
 }
 .formAdmin{
   
     width: 50%;
     margin: 20px 20px;
+    font-family: 'Oswald', sans-serif;
 }
 .formAdmin ul{
     list-style: none;
+    font-family: 'Oswald', sans-serif;
 }
+
+
+
+/* article de new : */
+/* formulaire de search */
+.formi{
+    border-bottom: 5px solid #35424a;
+    background-color: #35424a;
+    color: white;
+}
+.formi form{
+    margin-left:30px;
+    padding: 20px;
+    text-align:center;
+}
+.formi table{
+    width:100%;
+}
+.formi table tr td{
+    width:50%;
+    padding: 10px;
+}
+
+.select{
+    border:2px solid #CA6DE8;
+    background:none;
+    width:90%;
+    padding: 10px;
+    color: black;
+}
+.selecta,.inputa{
+    border:2px solid #CA6DE8;
+    background:none;
+    width:20%;
+    padding: 10px;
+    color: black;
+}
+@media(max-width: 768px){
+    #boxes .box,
+    article#main-col,
+    aside#sidebar{
+      float:left;
+      text-align:center;
+      width:100%;
+    }
+   
+    .selecta,.inputa{
+        
+        width:90%;
+    }
+   
+      /*page inscription  */

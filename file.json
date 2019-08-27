@@ -1,50 +1,1803 @@
 [
     {
-        "NomEcole":"EST",
+        "NomEcole":"ENSA",
         "Ville":"Fes",
-        "formations":["DUT","LP"],
+        "formations":["DI", "Masters", "L", "DUT", "Doctorat"],
         "filieres" : [
-            "Genie informatique","Genie Biologique"
+            "Génie Industriel",
+            "Génie Informatique",
+            "Génie Télécommunication et Réseaux",
+            "Génie Mécatronique",
+           " Génie des Systèmes Embarqués et Informatique Industrielle"
                 ],
-        "PlusDinfo":"lien vers le site"
-         
+        "intro":"Ecole Nationale des Sciences Appliquées Fès : ( ENSA Fès ou ENSAF Fès ), est un établissement relevant du réseau ENSA au Maroc, L’objectif de l’école étant de former des cadres ingénieurs dans des disciplines diversifiées. La durée d’études à cette école, est étalée sur 5 ans comme c’est le cas pour toutes les autres ENSA. Les deux premières années sont consacrées au cycle préparatoire, s’il s’agit d’initier l’étudiant aux sciences permettant de mieux mener ses études dans le cycle d’ingénieur, ce dernier qui commence à partir de la 3éme année permet aux étudiants de décider et de choisir leur filière. Ecole Nationale des Sciences Appliquées Fes ( ENSA FES ) est une école d’Ingénieurs appartenant au réseau ENSA Maroc,  créée en 2005, ENSA Fès compte 580 étudiants dont 458 élèves ingénieurs en 2011 et  125 diplômés la même année.",
+        "picture":"https://orientation-chabab.com/images/logo/ENSA_Fes.png",
+        "PlusDinfo":"lien vers le site",
+        "adresse":" Quartier Industriel Ain Chkef Route Bensouda - Fès BP 72 Fès Principale",
+        "site":"www.ensaf.ac.ma",
+        "email":" webmaster@ensaf.ac.ma",
+        "tel":"0535600403 - 0661453026"
     },
     {
-        "NomEcole":"ost",
-        "Ville":"Fes",
-        "formations": [
-            "Deust",
-            "LP",
-            "Master",
-            "Cycle d'ingenieur"
+        "NomEcole":"ENSA",
+        "Ville":"agadir",
+        "formations":["DI", "Masters", "L", "DUT", "Doctorat"],
+        "filieres" : [
+            "génie industriel",
+            "génie informatique",
+            "génie des procédés",
+            "de l’énergie de l’environnement",
+            " l’ingénierie financière",
+            "l’ingénierie de projet et des affaires",
+            "le génie électrique",
+            "le génie agroalimentaire"
+                ],
+        "intro":"Ecole Nationale des Sciences Appliquées Agadir : ( ENSA Agadir ou ENSAA Agadir ), est un établissement relevant du réseau ENSA au Maroc, L’objectif de l’école étant de former des cadres ingénieurs dans des disciplines diversifiées. La durée d’études à cette école, est étalée sur 5 ans comme c’est le cas pour toutes les autres ENSA. Les deux premières années sont consacrées au cycle préparatoire, s’il s’agit d’initier l’étudiant aux sciences permettant de mieux mener ses études dans le cycle d’ingénieur, ce dernier qui commence à partir de la 3éme année permet aux étudiants de décider et de choisir leur filière.",
+        "picture":"https://orientation-chabab.com/images/logo/ENSA_Agadir.png",
+        "PlusDinfo":"lien vers le site",
+        "adresse":" E.N.S.A - B.P: 1136 Agadir - Maroc",
+        "site":" www.ensa-agadir.ac.ma",
+        "email":"contact@ensa-agadir.ac.ma",
+        "tel":" 0528228313"
+    },
+    {
+        "NomEcole":"ENSA",
+        "Ville":"berrechid",
+        "formations":["DI", "Masters", "L", "DUT", "Doctorat"],
+        "filieres" : [
+            "Ingénierie de l'Aréonautique",
+            "Ingénierie des Systèmes d'Information et Big Data"
+                ],
+        "intro":"Ecole Nationale des Sciences Appliquées Berrechid : ( ENSA Berrechid ou ENSAB Berrechid ), est un établissement relevant du réseau ENSA au Maroc, L’objectif de l’école étant de former des cadres ingénieurs dans des disciplines diversifiées. La durée d’études à cette école, est étalée sur 5 ans comme c’est le cas pour toutes les autres ENSA. Les deux premières années sont consacrées au cycle préparatoire, s’il s’agit d’initier l’étudiant aux sciences permettant de mieux mener ses études dans le cycle d’ingénieur, ce dernier qui commence à partir de la 3éme année permet aux étudiants de décider et de choisir leur filière.Ecole Nationale des Sciences Appliquées Berrechid ( ENSA Berrechid  ou ENSAB Berrechid ) est une école d’Ingénieurs appartenant au réseau ENSA Maroc,  créée en 2018.",
+        "picture":"https://orientation-chabab.com/images/ENSA_Berrechid.png",
+        "PlusDinfo":"lien vers le site",
+        "adresse":"  Ecole Nationale des Sciences Appliquées , Quartier Taqadom, Passage d'Alger, B.P :218 Berrechid ",
+        "site":" www.est.uh1.ac.ma",
+        "email":"scolarite.ensab@gmail.com",
+        "tel":"0522324758"   
+    },
+    {
+        "NomEcole":"ENSA",
+        "Ville":"hoceima",
+        "formations":["DI", "Masters", "L", "DUT", "Doctorat"],
+        "filieres" : [
+            "Génie Informatique ",
+            "Génie Civil ",
+            "Génie de l’Environnement et des Risques Naturels"
+                ],
+        "intro":"Ecole Nationale des Sciences Appliquées Al Hoceima : ( ENSA Al Hoceima ou ENSAH Al Hoceima ), est un établissement relevant du réseau ENSA au Maroc, L’objectif de l’école étant de former des cadres ingénieurs dans des disciplines diversifiées. La durée d’études à cette école, est étalée sur 5 ans comme c’est le cas pour toutes les autres ENSA. Les deux premières années sont consacrées au cycle préparatoire, s’il s’agit d’initier l’étudiant aux sciences permettant de mieux mener ses études dans le cycle d’ingénieur, ce dernier qui commence à partir de la 3éme année permet aux étudiants de décider et de choisir leur filière.ENSA Hoceima est Créée en 2008, l'Ecole Nationale des Sciences Appliquées d'Al Hoceima (ENSAH) est un établissement public d'enseignement supérieur relevant de l’université Mohammed Premier. Sa création s’inscrit dans l’optique de favoriser la formation des ingénieurs d’Etat hautement qualifiés dans les spécialités les plus ouvertes et susceptibles de connaître d’importants développements au sein du tissu socio-économique régional et nationaLe positionnement de l’Ecole contribuera à lui conférer une dimension euro-méditerranéenne et à répondre aux besoins régionaux et nationaux en matière de formation en ingénierie.",
+        "picture":"https://orientation-chabab.com/images/ENSA_Berrechid.png",
+        "PlusDinfo":"lien vers le site",
+        "adresse":" ENSA d'Al Hoceima BP 03, Ajdir Al-Hoceima ",
+        "site":" www.ensah.ma",
+        "email":"tarikboudaa@yahoo.fr",
+        "tel":"0539805714"   
+    },
+    {
+        "NomEcole":"ENSA",
+        "Ville":"kenitra",
+        "formations":["DI", "Masters", "L", "DUT", "Doctorat"],
+        "filieres" : [
+            "Génie Informatique",
+            "Réseaux et systèmes de télécommunications",
+            "Génie électrique"
+                ],
+        "intro":"Ecole Nationale des Sciences Appliquées Kénitra : ( ENSA Kénitra ou ENSAK Kénitra ), est un établissement relevant du réseau ENSA au Maroc, L’objectif de l’école étant de former des cadres ingénieurs dans des disciplines diversifiées. La durée d’études à cette école, est étalée sur 5 ans comme c’est le cas pour toutes les autres ENSA. Les deux premières années sont consacrées au cycle préparatoire, s’il s’agit d’initier l’étudiant aux sciences permettant de mieux mener ses études dans le cycle d’ingénieur, ce dernier qui commence à partir de la 3éme année permet aux étudiants de décider et de choisir leur filière.Ecole Nationale des Sciences Appliquées de Kénitra ( ENSA Kénitra ) a été créée en 2008. Sa Majesté le Roi Mohammed VI a procédé le Lundi 13 0ctobre 2008 à la pose de la première pierre pour la construction des locaux de l'établissement. ",
+        "picture":"https://orientation-chabab.com/images/logo/ENSA_Kenitra.png",
+        "PlusDinfo":"lien vers le site",
+        "adresse":"ENSA, Campus Universitaire, B.P 242, Kénitra - Maroc ",
+        "site":" ENSA, Campus Universitaire, B.P 242, Kénitra - Maroc",
+        "email":"-",
+        "tel":"0537329448"   
+    },
+    {
+        "NomEcole":"ENSA",
+        "Ville":"khouribga",
+        "formations":["DI", "Masters", "L", "DUT", "Doctorat"],
+        "filieres" : [
+            "Génie Electrique",
+            "Génie Informatique ",
+            "Génie Réseaux et Télécom",
+            "Génie des Procédés de l'Environnement et de l'Energie"
+                ],
+        "intro":"Ecole Nationale des Sciences Appliquées Khouribga : ( ENSA Khouribga ou ENSAK Khouribga ), est un établissement relevant du réseau ENSA au Maroc, L’objectif de l’école étant de former des cadres ingénieurs dans des disciplines diversifiées. La durée d’études à cette école, est étalée sur 5 ans comme c’est le cas pour toutes les autres ENSA. Les deux premières années sont consacrées au cycle préparatoire, s’il s’agit d’initier l’étudiant aux sciences permettant de mieux mener ses études dans le cycle d’ingénieur, ce dernier qui commence à partir de la 3éme année permet aux étudiants de décider et de choisir leur filière.Ecole Nationale des Sciences Appliquées Khouribga Faisant partie du réseau ENSA du Maroc, l’ENSA de Khouribga relève de l’Université Hassan 1er de Settat. Elle a été créée en 2007 pour appuyer la volonté gouvernementale dans le cadre de l’initiative nationale de formation de 10 000 ingénieurs à l’horizon 2010. Elle forme des ingénieurs d’Etat hautement qualifiés au niveau scientifique, technique, modélisation, management et communication. ",
+        "picture":"https://orientation-chabab.com/images/logo/ENSA_Khouribga.png",
+        "PlusDinfo":"lien vers le site",
+        "adresse":"ENSA, Bd Béni Amir, BP 77, Khouribga - Maroc",
+        "site":" ENSA, Bd Béni Amir, BP 77, Khouribga - Maroc",
+        "email":"contact.ensa@uh1.ac.ma",
+        "tel":" 0523492335 / 0618534372"   
+    },
+    {
+        "NomEcole":"ENSA",
+        "Ville":"marrakech",
+        "formations":["DI", "Masters", "L", "DUT", "Doctorat"],
+        "filieres" : [
+            "Le Génie Electrique",
+            "Le Génie Informatique",
+            "Le Génie Réseaux et Télécommunications",
+            "Le Génie Industriel et Logistique"
+                ],
+        "intro":"Ecole Nationale des Sciences Appliquées Marrakech : ( ENSA Marrakech ou ENSAM Marrakech ), est un établissement relevant du réseau ENSA au Maroc, L’objectif de l’école étant de former des cadres ingénieurs dans des disciplines diversifiées. La durée d’études à cette école, est étalée sur 5 ans comme c’est le cas pour toutes les autres ENSA. Les deux premières années sont consacrées au cycle préparatoire, s’il s’agit d’initier l’étudiant aux sciences permettant de mieux mener ses études dans le cycle d’ingénieur, ce dernier qui commence à partir de la 3éme année permet aux étudiants de décider et de choisir leur filière.L'Ecole Nationale des Sciences Appliquées de Marrakech (ENSA Marrakech ) est un établissement public de l'enseignement supérieur à finalité professionnalisante. Elle a été créée en 2000 par le Ministère de l'Enseignement Supérieur, de la Formation des Cadres et de la Recherche Scientifique et constitue une composante de l'Université Cadi Ayyad.ENSA Marrakech s’inscrit dans le cadre de la diversification des formations dispensées au sein de l’Université, et de la dynamisation de l’environnement socio-économique et industriel de la région.",
+        "picture":"https://orientation-chabab.com/images/logo/ENSA_Marrakech.png",
+        "PlusDinfo":"lien vers le site",
+        "adresse":"E.N.S.A - BP 575 Avenue Abdelkarim Khattabi,Guéliz Marrakech Maroc",
+        "site": "www.ensa.ac.ma",
+        "email":"sefyani@ensa.ac.ma",
+        "tel":"0524434745"   
+    },
+    {
+        "NomEcole":"ENSA",
+        "Ville":"oujda",
+        "formations":["DI", "Masters", "L", "DUT", "Doctorat"],
+        "filieres" : [
+            "Génie Informatique",
+            "Génie Electrique",
+            "Génie Industriel",
+            "Génie Télécommunications et Réseau",
+            "Génie Mécanique et Productique"
+                ],
+        "intro":"Ecole Nationale des Sciences Appliquées Oujda : ( ENSA Oujda ou ENSAO Oujda ), est un établissement relevant du réseau ENSA au Maroc, L’objectif de l’école étant de former des cadres ingénieurs dans des disciplines diversifiées. La durée d’études à cette école, est étalée sur 5 ans comme c’est le cas pour toutes les autres ENSA. Les deux premières années sont consacrées au cycle préparatoire, s’il s’agit d’initier l’étudiant aux sciences permettant de mieux mener ses études dans le cycle d’ingénieur, ce dernier qui commence à partir de la 3éme année permet aux étudiants de décider et de choisir leur filière.L'ENSA Oujda, première et unique grande école d'ingénieurs d'état dans la région de l'oriental a été créée par le décret ministériel N° 2-99-1007 du 1 er rajeb 1422 (19 septembre 2001).L'ENSAO Oujda est localisé sur le campus universitaire. Il s'inscrit dans le cadre de la diversification des formations dispensées au sein de l'Université et de la dynamisation de l'environnement socio-économique et industriel régional et national.",
+        "picture":"https://orientation-chabab.com/images/logo/ENSA_Oujda.png",
+        "PlusDinfo":"lien vers le site",
+        "adresse":"ENSA, BP 669, OUJDA 60000 MAROC",
+        "site": "wwwensa.univ-oujda.ac.ma",
+        "email":"omar@ensa.ump.ma",
+        "tel":"0536505470 / 0536505471"   
+    },
+    {
+        "NomEcole":"ENSA",
+        "Ville":"safi",
+        "formations":["DI", "Masters", "L", "DUT", "Doctorat"],
+        "filieres" : [
+            "Génie informatique",
+            "Génie Réseaux et Télécommunications",
+            "Génie Industriel",
+            "Génie des Procédés et Matériaux céramique"
+             ],
+        "intro":"Ecole Nationale des Sciences Appliquées Safi : ( ENSA Safi ou ENSAS Safi ), est un établissement relevant du réseau ENSA au Maroc, L’objectif de l’école étant de former des cadres ingénieurs dans des disciplines diversifiées. La durée d’études à cette école, est étalée sur 5 ans comme c’est le cas pour toutes les autres ENSA. Les deux premières années sont consacrées au cycle préparatoire, s’il s’agit d’initier l’étudiant aux sciences permettant de mieux mener ses études dans le cycle d’ingénieur, ce dernier qui commence à partir de la 3éme année permet aux étudiants de décider et de choisir leur filière.L' Ecole Nationale des Sciences Appliquées de SAFI (ENSA Safi) est un établissement universitaire relevant de l’université Cadi Ayyad et sous la tutelle du ministère de l’enseignement supérieur et de la recherche scientifique. Elle fait partie du réseau des écoles nationales des sciences appliquées réparties sur l’ensemble du territoire national au niveau des grandes villes universitaires du pays. L'ENSAS est spécialisée dans tout ce qui concerne l’enseignement supérieur, la recherche scientifique et technique et la formation d’ingénieurs et des cadres ainsi que la formation continue.",
+        "picture":"https://orientation-chabab.com/images/logo/ENSA_Safi.png",
+        "PlusDinfo":"lien vers le site",
+        "adresse":"ENSA Route Sidi Bouzid BP 63, 46000 - Safi",
+        "site": " www.ensas.ac.ma",
+        "email":"ensasafi@gmail.com",
+        "tel":" 0524669155"   
+    },
+    {
+        "NomEcole":"ENSA",
+        "Ville":"tanger",
+        "formations":["DI", "Masters", "L", "DUT", "Doctorat"],
+        "filieres" : [
+            "Génie des Systèmes de Télécommunications & Réseaux",
+            "Génie des Systèmes Electroniques et Automatique",
+            "Génie Informatique (Génie logiciel, Systèmes d’Information)",
+            "Génie Industriel & Logistique"
+             ],
+        "intro":"Ecole Nationale des Sciences Appliquées Tanger : ( ENSA Tanger ou ENSAT Tanger ), est un établissement relevant du réseau ENSA au Maroc, L’objectif de l’école étant de former des cadres ingénieurs dans des disciplines diversifiées. La durée d’études à cette école, est étalée sur 5 ans comme c’est le cas pour toutes les autres ENSA. Les deux premières années sont consacrées au cycle préparatoire, s’il s’agit d’initier l’étudiant aux sciences permettant de mieux mener ses études dans le cycle d’ingénieur, ce dernier qui commence à partir de la 3éme année permet aux étudiants de décider et de choisir leur filière.",
+        "picture":"https://orientation-chabab.com/images/logo/ENSA_Tanger.png",
+        "PlusDinfo":"lien vers le site",
+        "adresse":"BP 1818 Tanger Principal Tanger",
+        "site": "www.uae.ma ",
+        "email":"info@ensat.ac.ma",
+        "tel":" 0539393744 "   
+    },
+    {
+        "NomEcole":"ENSA",
+        "Ville":"tetouan",
+        "formations":["DI", "Masters", "L", "DUT", "Doctorat"],
+        "filieres" : [
+            "Génie des Systèmes des Télécommunications et Réseaux",
+            "Génie Informatique",
+            "Ingénierie Logistique Et Transport",
+            "Ingénieur en Mécatronique"
+             ],
+        "intro":"Ecole Nationale des Sciences Appliquées Tétouan : ( ENSA Tétouan ou ENSAT Tétouan ), est un établissement relevant du réseau ENSA au Maroc, L’objectif de l’école étant de former des cadres ingénieurs dans des disciplines diversifiées. La durée d’études à cette école, est étalée sur 5 ans comme c’est le cas pour toutes les autres ENSA. Les deux premières années sont consacrées au cycle préparatoire, s’il s’agit d’initier l’étudiant aux sciences permettant de mieux mener ses études dans le cycle d’ingénieur, ce dernier qui commence à partir de la 3éme année permet aux étudiants de décider et de choisir leur filière.Ecole Nationale des Sciences Appliquées Tétouan ( ENSA Tétouan) Créée en Septembre 2008, L’ENSA Tétouan  membre du réseau des Écoles Nationales des Sciences Appliquées, est un établissement public à caractère scientifique culturel et professionnel,  instauré pour être une école  d’ingénieurs de haut niveau.",
+        "picture":"https://orientation-chabab.com/images/logo/ENSA_Tetouan.png",
+        "PlusDinfo":"lien vers le site",
+        "adresse":"ENSA de Tétouan - Avenue de la Palestine - BP 2222 Mhanech II",
+        "site": "www.ensate.uae.ma",
+        "email":"youssef.zertiti@uae.ma",
+        "tel":"0539688027"   
+    },
+    {
+        "NomEcole":"ENSA",
+        "Ville":"Eljadida",
+        "formations":["DI", "Masters", "L", "DUT", "Doctorat"],
+        "filieres" : [
+            "Génie électrique et énergétique",
+            "MASTERE Specialise :Management et Technologie de l’Energie",
+            "MASTERE D’UNIVERSITE : MANAGEMENT ET INGENIERIE  ",
+            "Ingénierie des systèmes d’information et de communication (ISIC)",
+            "Génie Industriel (GI)",
+            "Ingénierie Informatique et Technologies émergentes (2ITE)"
+                ],
+        "intro":"Ecole Nationale des Sciences Appliquées El Jadida : ( ENSA El Jadida ou ENSAE El Jadida ), est un établissement relevant du réseau ENSA au Maroc, L’objectif de l’école étant de former des cadres ingénieurs dans des disciplines diversifiées. La durée d’études à cette école, est étalée sur 5 ans comme c’est le cas pour toutes les autres ENSA. Les deux premières années sont consacrées au cycle préparatoire, s’il s’agit d’initier l’étudiant aux sciences permettant de mieux mener ses études dans le cycle d’ingénieur, ce dernier qui commence à partir de la 3éme année permet aux étudiants de décider et de choisir leur filière.",
+        "picture":"https://orientation-chabab.com/images/logo/ENSA_El_jadida.png",
+        "PlusDinfo":"lien vers le site",
+        "adresse":"Angle Rue de Fès et Avenue Ahmed Chaouki, BP : 1166 El Jadida Plateau 24002",
+        "site": "www.ensaj.ac.ma",
+        "email":"sefyani@ensaj.ac.ma",
+        "tel":"0523 39 56 79"   
+    },
+    {
+        "NomEcole": "ENCG",
+        "Ville": "agadir",
+        "formations": ["IP", "LP", "Masters", "SD"],
+        "filieres": [
+            "marketing",
+            "commerce international",
+            "publicité",
+            "audit et contrôle de gestion",
+            "gestion financière et comptable",
+            "management des ressources humaines"
         ],
-        "filieres" : [
-            "Deust",
-            "LP",
-            "Master",
-            "Cycle d'ingenieur"
-                ],
-        "PlusDinfo":"lien vers le site"
-         
+        "intro": "Ecole Nationale de Commerce et de Gestion Agadir : ( ENCG Agadir ou ENCGA Agadir ), est un établissement qui figure parmi les écoles de commerce et gestion marocaines, notamment le réseau ENCG Maroc qui regroupe les 9 ENCG à travers le pays. Cette école est spécialisée dans la formation dans le commerce et la gestion, ce sont deux branches que l’étudiant choisir après le tronc commun qui dure 3 ans, la durée d’études dans cette école s’étale sur 5 ans. qui finissent par l’obtention du diplôme des écoles nationales de commerce et gestion.",
+        "picture": "https://orientation-chabab.com/images/logo/ENCG_Agadir.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": " ENCG BP 37/S 80000, Agadir",
+        "site": " www.encg-agadir.ac.ma",
+        "email": " info@encg-agadir.ac.ma ",
+        "tel": "0528225739/48"
     },
     {
-        "NomEcole":"EST",
-        "Ville":"Casa",
-        "formations":["DUT","LP"],
-        "filieres" : [
-            "Genie informatique","Genie Biologique"
-                ],
-        "PlusDinfo":"lien vers le site"
-         
+        "NomEcole": "ENCG",
+        "Ville": "Beni mellal",
+        "formations": ["IP", "LP", "Masters", "SD"],
+        "filieres": [
+            "marketing",
+            "commerce international",
+            "publicité",
+            "audit et contrôle de gestion",
+            "gestion financière et comptable",
+            "management des ressources humaines"
+        ],
+        "intro": "Ecole Nationale de Commerce et de Gestion Béni Mellal : ( ENCG Béni Mellal ou ENCGB Béni Mellal ), est un établissement spécialisée dans la formation dans le commerce et la gestion, ce sont deux branches que l’étudiant choisir après le tronc commun qui dure 3 ans, la durée d’études dans cette école s’étale sur 5 ans. qui finissent par l’obtention du diplôme des écoles nationales de commerce et gestionEcole Nationale de Commerce et de Gestion Beni Mellal est un établissement supérieur public de haute formation à la gestion des entreprises et des organisations. Sa création s’intègre dans le cadre d’une ouverture plus large de l’université marocaine sur les attentes du tissu entrepreneurial, caractérisées par un besoin croissant en gestionnaires modernes, aptes à relever le défi de la compétitivité de l’entreprise marocaine sur les marchés nationaux et internationaux.",
+        "picture": "https://orientation-chabab.com/images/logo/ENCG_Meknes.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "-",
+        "site": " www.umi.ac.ma",
+        "email": "-",
+        "tel": "-"
     },
     {
-        "NomEcole":"FST",
-        "Ville":"Settat",
-        "formations":["Deust","LP","Master","Cycle d'ingenieur"],
-        "filieres" : [
-            "Genie informatique","Genie Biologique"
-                ],
-        "PlusDinfo":"https://www.google.com/"
-    }
+        "NomEcole": "ENCG",
+        "Ville": "casablanca",
+        "formations": ["IP", "LP", "Masters", "SD"],
+        "filieres": [
+            "marketing",
+            "commerce international",
+            "publicité",
+            "audit et contrôle de gestion",
+            "gestion financière et comptable",
+            "management des ressources humaines"
+        ],
+        "intro": "Ecole Nationale de Commerce et de Gestion Casablanca : ( ENCG Casablanca ou ENCGC Casablanca ), est un établissement qui figure parmi les écoles de commerce et gestion marocaines, notamment le réseau ENCG Maroc qui regroupe les 9 ENCG à travers le pays. Cette école est spécialisée dans la formation dans le commerce et la gestion, ce sont deux branches que l’étudiant choisir après le tronc commun qui dure 3 ans, la durée d’études dans cette école s’étale sur 5 ans. qui finissent par l’obtention du diplôme des écoles nationales de commerce et gestion.",
+        "picture": "https://orientation-chabab.com/images/logo/ENCG_Casablanca.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "Beau site, B.P 2725 Ain Sebaâ, Casablanca",
+        "site": "www.encgcasa.ac.ma",
+        "email": "encgcasa@encgcasa.ac.ma",
+        "tel": "05 22 66 08 52"
+    },
+    {
+        "NomEcole": "ENCG",
+        "Ville": "Dakhla",
+        "formations": ["IP", "LP", "Masters", "SD"],
+        "filieres": [
+            "marketing",
+            "commerce international",
+            "publicité",
+            "audit et contrôle de gestion",
+            "gestion financière et comptable",
+            "management des ressources humaines"
+        ],
+        "intro": "Ecole Nationale de Commerce et de Gestion Dakhla : ( ENCG Dakhla ou ENCGD Dakhla ), est un établissement qui figure parmi les écoles de commerce et gestion marocaines, notamment le réseau ENCG Maroc qui regroupe les 9 ENCG à travers le pays. Cette école est spécialisée dans la formation dans le commerce et la gestion, ce sont deux branches que l’étudiant choisir après le tronc commun qui dure 3 ans, la durée d’études dans cette école s’étale sur 5 ans. qui finissent par l’obtention du diplôme des écoles nationales de commerce et gestion.",
+        "picture": "https://orientation-chabab.com/images/ENCG_Dakhla.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "Ecole Nationale de Commerce et de Gestion - Dakhla",
+        "site": "www.encg-dakhla.ac.ma",
+        "email": "encgd@uiz.ac.ma",
+        "tel": " 0528 22 71 25"
+    },
+    {
+        "NomEcole": "ENCG",
+        "Ville": "El Jadida",
+        "formations": ["IP", "LP", "Masters", "SD"],
+        "filieres": [
+            "marketing",
+            "commerce international",
+            "publicité",
+            "audit et contrôle de gestion",
+            "gestion financière et comptable",
+            "management des ressources humaines"
+        ],
+        "intro": "Ecole Nationale de Commerce et de Gestion El Jadida : ( ENCG El Jadida ou ENCGE El Jadida ), est un établissement qui figure parmi les écoles de commerce et gestion marocaines, notamment le réseau ENCG Maroc qui regroupe les 9 ENCG à travers le pays. Cette école est spécialisée dans la formation dans le commerce et la gestion, ce sont deux branches que l’étudiant choisir après le tronc commun qui dure 3 ans, la durée d’études dans cette école s’étale sur 5 ans. qui finissent par l’obtention du diplôme des écoles nationales de commerce et gestion.",
+        "picture": "https://orientation-chabab.com/images/logo/ENCG_El_jadida.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "ENCG - El Jadida Angle Avenue Ahmed Chaouki et Rue de Fés - B.P.122 – 24000 El Jadida",
+        "site": "www.encgj.ac.ma",
+        "email": "-",
+        "tel": "05 23 39 44 35"
+    },
+    {
+        "NomEcole": "ENCG",
+        "Ville": "fes",
+        "formations": ["IP", "LP", "Masters", "SD"],
+        "filieres": [
+            "marketing",
+            "commerce international",
+            "publicité",
+            "audit et contrôle de gestion",
+            "gestion financière et comptable",
+            "management des ressources humaines"
+        ],
+        "intro": "Ecole Nationale de Commerce et de Gestion Fès : ( ENCG Fès ou ENCGF Fès ), est un établissement qui figure parmi les écoles de commerce et gestion marocaines, notamment le réseau ENCG Maroc qui regroupe les 9 ENCG à travers le pays. Cette école est spécialisée dans la formation dans le commerce et la gestion, ce sont deux branches que l’étudiant choisir après le tronc commun qui dure 3 ans, la durée d’études dans cette école s’étale sur 5 ans. qui finissent par l’obtention du diplôme des écoles nationales de commerce et gestion.",
+        "picture": "https://orientation-chabab.com/images/logo/ENCG_Fes.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "ENCG Route d'Imouzzer B.P.2626 Fès 30000 Maroc",
+        "site": "www.encg-usmba.ma",
+        "email": "-",
+        "tel": "0535605057"
+    },
+    {
+        "NomEcole": "ENCG",
+        "Ville": "kenitra",
+        "formations": ["IP", "LP", "Masters", "SD"],
+        "filieres": [
+            "marketing",
+            "commerce international",
+            "publicité",
+            "audit et contrôle de gestion",
+            "gestion financière et comptable",
+            "management des ressources humaines"
+        ],
+        "intro": "Ecole Nationale de Commerce et de Gestion Kénitra : ( ENCG Kénitra ou ENCGK Kénitra ), est un établissement qui figure parmi les écoles de commerce et gestion marocaines, notamment le réseau ENCG Maroc qui regroupe les 9 ENCG à travers le pays. Cette école est spécialisée dans la formation dans le commerce et la gestion, ce sont deux branches que l’étudiant choisir après le tronc commun qui dure 3 ans, la durée d’études dans cette école s’étale sur 5 ans. qui finissent par l’obtention du diplôme des écoles nationales de commerce et gestion.",
+        "picture": "https://orientation-chabab.com/images/logo/ENCG_Kenitra.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "ENCG B.P 1420, Kénitra 14000- Maroc",
+        "site": "www.univ-ibntofail.ac.ma",
+        "email": "-",
+        "tel": "05 37 32 94 21/22"
+    },
+    {
+        "NomEcole": "ENCG",
+        "Ville": "marrakech",
+        "formations": ["IP", "LP", "Masters", "SD"],
+        "filieres": [
+            "marketing",
+            "commerce international",
+            "publicité",
+            "audit et contrôle de gestion",
+            "gestion financière et comptable",
+            "management des ressources humaines"
+        ],
+        "intro": "Ecole Nationale de Commerce et de Gestion Marrakech : ( ENCG Marrakech ou ENCGM Marrakech ), est un établissement qui figure parmi les écoles de commerce et gestion marocaines, notamment le réseau ENCG Maroc qui regroupe les 9 ENCG à travers le pays. Cette école est spécialisée dans la formation dans le commerce et la gestion, ce sont deux branches que l’étudiant choisir après le tronc commun qui dure 3 ans, la durée d’études dans cette école s’étale sur 5 ans. qui finissent par l’obtention du diplôme des écoles nationales de commerce et gestion.",
+        "picture": "https://orientation-chabab.com/images/logo/ENCG_Marrakech.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "ENCG de Marrakech av. Allal El Fassi BP 3748",
+        "site": " www.encg.ucam.ac.ma",
+        "email": "encg@encg.ucam.ac.ma",
+        "tel": "05 24 30 46 92"
+    },
+    {
+        "NomEcole": "ENCG",
+        "Ville": "meknes",
+        "formations": ["IP", "LP", "Masters", "SD"],
+        "filieres": [
+            "marketing",
+            "commerce international",
+            "publicité",
+            "audit et contrôle de gestion",
+            "gestion financière et comptable",
+            "management des ressources humaines"
+        ],
+        "intro": "Ecole Nationale de Commerce et de Gestion Meknès : ( ENCG Meknès ou ENCGM Meknès ), est un établissement spécialisée dans la formation dans le commerce et la gestion, ce sont deux branches que l’étudiant choisir après le tronc commun qui dure 3 ans, la durée d’études dans cette école s’étale sur 5 ans. qui finissent par l’obtention du diplôme des écoles nationales de commerce et gestion",
+        "picture": "https://orientation-chabab.com/images/logo/ENCG_Meknes.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "-",
+        "site": "www.umi.ac.ma",
+        "email": "-",
+        "tel": "-"
+    },
+    {
+        "NomEcole": "ENCG",
+        "Ville": "oujda",
+        "formations": ["IP", "LP", "Masters", "SD"],
+        "filieres": [
+            "marketing",
+            "commerce international",
+            "publicité",
+            "audit et contrôle de gestion",
+            "gestion financière et comptable",
+            "management des ressources humaines"
+        ],
+        "intro": "Ecole Nationale de Commerce et de Gestion Oujda : ( ENCG Oujda ou ENCGO Oujda ), est un établissement qui figure parmi les écoles de commerce et gestion marocaines, notamment le réseau ENCG Maroc qui regroupe les 9 ENCG à travers le pays. Cette école est spécialisée dans la formation dans le commerce et la gestion, ce sont deux branches que l’étudiant choisir après le tronc commun qui dure 3 ans, la durée d’études dans cette école s’étale sur 5 ans. qui finissent par l’obtention du diplôme des écoles nationales de commerce et gestion.",
+        "picture": "https: //orientation-chabab.com/images/logo/ENCG_Oujda.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "ENCG Complexe universitaire BP 658 - Oujda principale 60000",
+        "site": "www.encgo.ump.ma",
+        "email": "service.informatique.encgo@gmail.com",
+        "tel": "0536506983/85/89"
+    },
+    {
+        "NomEcole": "ENCG",
+        "Ville": "Settat",
+        "formations": ["IP", "LP", "Masters", "SD"],
+        "filieres": [
+            "marketing",
+            "commerce international",
+            "publicité",
+            "audit et contrôle de gestion",
+            "gestion financière et comptable",
+            "management des ressources humaines"
+        ],
+        "intro": "Ecole Nationale de Commerce et de Gestion Settat : ( ENCG Settat ou ENCGS Settat ), est un établissement qui figure parmi les écoles de commerce et gestion marocaines, notamment le réseau ENCG Maroc qui regroupe les 9 ENCG à travers le pays. Cette école est spécialisée dans la formation dans le commerce et la gestion, ce sont deux branches que l’étudiant choisir après le tronc commun qui dure 3 ans, la durée d’études dans cette école s’étale sur 5 ans. qui finissent par l’obtention du diplôme des écoles nationales de commerce et gestion.",
+        "picture": "https://orientation-chabab.com/images/logo/ENCG_Settat.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "ENCG SETTAT KM3 route de casablanca B.P 658 Settat",
+        "site": "www.encgs.com",
+        "email": "contact@encgs.com",
+        "tel": "0523 40.12.02 / 0523 40.10.63"
+    },
+    {
+        "NomEcole": "ENCG",
+        "Ville": "Tanger",
+        "formations": ["IP", "LP", "Masters", "SD"],
+        "filieres": [
+            "marketing",
+            "commerce international",
+            "publicité",
+            "audit et contrôle de gestion",
+            "gestion financière et comptable",
+            "management des ressources humaines"
+        ],
+        "intro": "Ecole Nationale de Commerce et de Gestion Tanger : ( ENCG Tanger ou ENCGT Tanger ), est un établissement qui figure parmi les écoles de commerce et gestion marocaines, notamment le réseau ENCG Maroc qui regroupe les 9 ENCG à travers le pays. Cette école est spécialisée dans la formation dans le commerce et la gestion, ce sont deux branches que l’étudiant choisir après le tronc commun qui dure 3 ans, la durée d’études dans cette école s’étale sur 5 ans. qui finissent par l’obtention du diplôme des écoles nationales de commerce et gestion.",
+        "picture": "https://orientation-chabab.com/images/logo/ENCG_Tanger.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "ENCG de Tanger Route de l'aéroport B.P 1255 - 90000 Tanger Principal",
+        "site": " www.encgt.ma",
+        "email": "encgtanger@encgt.ma",
+        "tel": "0539313487/88/89"
+    },
+    {
+        "NomEcole": "FSJES",
+        "Ville": "Agadir",
+        "formations": ["DEUG", "licence", "masters", "doctorat"],
+        "filieres": [
+            "sciences  juridiques",
+            "sciences économiques",
+            "sciences sociales"
+        ],
+        "intro": "Faculté des Sciences Juridiques, Economiques et Sociales Agadir : ( FSJES Agadir ou FSJESA Agadir ), est un établissement d'enseignement supérieur dont le but est de développer des programmes d'enseignement et de recherche dans les domaines juridique, économique et social. A cette fin, elle remplit trois missions fondamentales : l'enseignement, la recherche, la culture et l'informationLa Faculté des Sciences juridiques Économiques et Sociales Agadir ( FSJES Agadir ou FSJESA), ouverte en 1999, accueille chaque année plus de 7000 étudiants sur un campus de près de 9 hectares comprenant 11 amphithéâtres de 250 places, de nombreuses salles d’enseignements dirigés et laboratoires de recherche ainsi qu’une magnifique bibliothèque universitaire.",
+        "picture": "https://orientation-chabab.com/images/logo/FSJES_Agadir.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": " FSJES Agadir BP S/1234 Agadir Maroc",
+        "site": "www.fsjes - agadir.org ",
+        "email": "info@fsjes-agadir.org",
+        "tel": "0528 23 28 17"
+    },
+    {
+        "NomEcole": "FSJES",
+        "Ville": "casablanca",
+        "formations": ["DEUG", "licence", "masters", "doctorat"],
+        "filieres": [
+            "sciences  juridiques",
+            "sciences économiques",
+            "sciences sociales"
+        ],
+        "intro": "Faculté des Sciences Juridiques, Economiques et Sociales Casablanca : ( FSJES Casablanca ou FSJESC Casablanca ), est un établissement d'enseignement supérieur dont le but est de développer des programmes d'enseignement et de recherche dans les domaines juridique, économique et social. A cette fin, elle remplit trois missions fondamentales : l'enseignement, la recherche, la culture et l'informationFaculté des Sciences Juridiques, Economiques et Sociales Ain Sebaa Casablanca (FSJES AinSebaa Casablanca ou FSJESC)",
+        "picture": "https://orientation-chabab.com/images/logo/FS_Casablanca.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "Facultè des Sciences Juridiques, Economiques et Sociales Ain Sebaa, Beausite, BP :2634 Ain sebaa ",
+        "site": " www.facainsebaa.ma",
+        "email": "-",
+        "tel": "0522 34 34 82/0522 35 78 46"
+    },
+    {
+        "NomEcole": "FSJES",
+        "Ville": "fes",
+        "formations": ["DEUG", "licence", "masters", "doctorat"],
+        "filieres": [
+            "sciences  juridiques",
+            "sciences économiques",
+            "sciences sociales"
+        ],
+        "intro": "Faculté des Sciences Juridiques, Economiques et Sociales Fès : ( FSJES Fès ou FSJESF Fès ), est un établissement d'enseignement supérieur dont le but est de développer des programmes d'enseignement et de recherche dans les domaines juridique, économique et social. A cette fin, elle remplit trois missions fondamentales : l'enseignement, la recherche, la culture et l'information",
+        "picture": "https://orientation-chabab.com/images/logo/FSJES_Fes.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "Fes BP 42 A",
+        "site": "http://fsjes.usmba.ac.ma/ ",
+        "email": "fsjesmail@gmail.com",
+        "tel": "0664 29 92 99/0663 7533 06"
+    },
+    {
+        "NomEcole": "FSJES",
+        "Ville": "kenitra",
+        "formations": ["DEUG", "licence", "masters", "doctorat"],
+        "filieres": [
+            "sciences  juridiques",
+            "sciences économiques",
+            "sciences sociales"
+        ],
+        "intro": "Faculté des Sciences Juridiques, Economiques et Sociales Kénitra : ( FSJES Kénitra ou FSJESK Kénitra ), est un établissement d'enseignement supérieur dont le but est de développer des programmes d'enseignement et de recherche dans les domaines juridique, économique et social. A cette fin, elle remplit trois missions fondamentales : l'enseignement, la recherche, la culture et l'information",
+        "picture": "https://orientation-chabab.com/images/logo/FSJES_Kenitra.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "Campus universitaire Maamora BP:2010 Kénitra",
+        "site": "www.fsjesk.ma",
+        "email": "fsjes.kenitra@gmail.com",
+        "tel": "0537 32 92 18"
+    },
+    {
+        "NomEcole": "FSJES",
+        "Ville": "marrakech",
+        "formations": ["DEUG", "licence", "masters", "doctorat"],
+        "filieres": [
+            "sciences  juridiques",
+            "sciences économiques",
+            "sciences sociales"
+        ],
+        "intro": "Faculté des Sciences Juridiques, Economiques et Sociales Marrakech : ( FSJES Marrakech ou FSJESM Marrakech ), est un établissement d'enseignement supérieur dont le but est de développer des programmes d'enseignement et de recherche dans les domaines juridique, économique et social. A cette fin, elle remplit trois missions fondamentales : l'enseignement, la recherche, la culture et l'informationCrée en 1979, la Faculté des Sciences Juridiques, Economiques et Sociales Marrakech ( FSJES Marrakech ou FSJESM)",
+        "picture": "https://orientation-chabab.com/images/logo/FSJES_Marrakech.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "FSJES . BP : 2380, Daoudiate - Marrakech.",
+        "site": "www.ucam.ac.ma",
+        "email": " fsjes@fdm.ucam.ac.ma",
+        "tel": "0524 30 30 32 / 0524 30 33 95"
+    },
+    {
+        "NomEcole": "FSJES",
+        "Ville": "meknes",
+        "formations": ["DEUG", "licence", "masters", "doctorat"],
+        "filieres": [
+            "sciences  juridiques",
+            "sciences économiques",
+            "sciences sociales"
+        ],
+        "intro": "Faculté des Sciences Juridiques, Economiques et Sociales Meknès : ( FSJES Meknès ou FSJESM Meknès ), est un établissement d'enseignement supérieur dont le but est de développer des programmes d'enseignement et de recherche dans les domaines juridique, économique et social. A cette fin, elle remplit trois missions fondamentales : l'enseignement, la recherche, la culture et l'information Fiche Technique de la FSJES Meknès:Suite au décret ministériel n°2-94-130 du Dou-Ilhija 1414 (24 mai) modifiant et complétant le décret n°2-90-554 du 2 Rajab (18 janvier 191) relatif aux établissements universitaires et aux cités universitaires publié au B.O n°42259 du 5 Moharem 1415 (15 juin 1994), la Faculté des Sciences Juridiques, Économiques et Sociales de Meknès (FSJES Meknes ou FSJESM) a été créée en juillet 1993, sur une superficie qui dépasse 6,3 ha, à préfecture de Meknès Al Ismaïlia.",
+        "picture": "https://orientation-chabab.com/images/logo/FSJES_Meknes.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "FSJES Adresse : B.P 3102 Toulal Meknès",
+        "site": " www.fsjes-umi.ac.ma",
+        "email": "doyen@fsjes-umi.ac.ma",
+        "tel": "0535 45 20 92 / 0535 45 20 93"
+    },
+    {
+        "NomEcole": "FSJES",
+        "Ville": "mohammedia",
+        "formations": ["DEUG", "licence", "masters", "doctorat"],
+        "filieres": [
+            "sciences  juridiques",
+            "sciences économiques",
+            "sciences sociales"
+        ],
+        "intro": "Faculté des Sciences Juridiques, Economiques et Sociales Mohammedia : ( FSJES Mohammedia ou FSJESM Mohammedia ), est un établissement d'enseignement supérieur dont le but est de développer des programmes d'enseignement et de recherche dans les domaines juridique, économique et social. A cette fin, elle remplit trois missions fondamentales : l'enseignement, la recherche, la culture et l'information",
+        "picture": "https://orientation-chabab.com/images/logo/FSJES_Mohammedia.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "Route de Rabat BP 145 , 20 650 Mohammédia",
+        "site": "Route de Rabat BP 145 , 20 650 Mohammédia ",
+        "email": "fsjesm@univh2m.ac.ma",
+        "tel": " 0523 31 46 82 / 83 / 84"
+    },
+    {
+        "NomEcole": "FSJES",
+        "Ville": "oujda",
+        "formations": ["DEUG", "licence", "masters", "doctorat"],
+        "filieres": [
+            "sciences  juridiques",
+            "sciences économiques",
+            "sciences sociales"
+        ],
+        "intro": "Faculté des Sciences Juridiques, Economiques et Sociales Oujda : ( FSJES Oujda ou FSJESO Oujda ), est un établissement d'enseignement supérieur dont le but est de développer des programmes d'enseignement et de recherche dans les domaines juridique, économique et social. A cette fin, elle remplit trois missions fondamentales : l'enseignement, la recherche, la culture et l'informationCréation de la faculté des sciences  juridiques, économiques et sociales OujdaA l’instar  des autres  facultés  du Royaume, la FSJES Oujda est  un établissement  de l’enseignement supérieur  et de recherche  scientifique affilié  à l’université  Mohammed  1er .",
+        "picture": "https://orientation-chabab.com/images/logo/FSJES_Oujda.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "FSJES Oujda, BP:724, Oujda, MAROC",
+        "site": " ttp://wwwdroit.univ-oujda.ac.ma",
+        "email": "fdo.webmaster@gmail.com",
+        "tel": "0536 50 05 97 "
+    },
+    {
+        "NomEcole": "FST",
+        "Ville": "beni mellal",
+        "formations": ["DUT", "Licence", "Master", "Doctorat", "Diplôme d’Ingénieur d’Etat"],
+        "filieres": [
+            "Sciences de la Vie",
+            "Sciences de la Terre",
+            "Génie Chimique",
+            "Physique",
+            "Mathématiques",
+            "Génie Informatique",
+            "Génie Electrique",
+            " Génie Mécanique",
+            "Langues"
+        ],
+        "intro": "Faculté des Sciences et Techniques Béni Mellal : ( FST Béni Mellal ou FSTB Béni Mellal ), est un établissement universitaire à caractère scientifique et technique, La FST est destinée à s'intégrer dans le pôle technologique et industriel de la région pour être une pépinière de techniciens et de cadres de haut niveau capables de servir de courroie de transmission entre le technicien supérieur et l'ingénieur concepteur.La Faculté des Sciences et Techniques de Béni Mellal (FST Béni Mellal ou FSTB ) est un établissement d´Enseignement Supérieur public scientifique et technique, à accès limité.",
+        "picture": "https://orientation-chabab.com/images/logo/FST_Beni_mellal.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "Faculté des Sciences et Techniques Université Sultan Moulay slimaneB.P : 523 Béni - Mellal Maroc",
+        "site": "www.fstbm.ac.ma",
+        "email": " webmast@fstbm.ac.ma",
+        "tel": " 0523447854"
+    },
+    {
+        "NomEcole": "FST",
+        "Ville": "errachidia",
+        "formations": ["DUT", "Licence", "Master", "Doctorat", "Diplôme d’Ingénieur d’Etat"],
+        "filieres": [
+            "Sciences de la Vie",
+            "Sciences de la Terre",
+            "Génie Chimique",
+            "Physique",
+            "Mathématiques",
+            "Génie Informatique",
+            "Génie Electrique",
+            " Génie Mécanique",
+            "Langues"
+        ],
+        "intro": "Faculté des Sciences et Techniques Errachidia : ( FST Errachidia ou FSTE Errachidia ), est un établissement universitaire à caractère scientifique et technique, La FST est destinée à s'intégrer dans le pôle technologique et industriel de la région pour être une pépinière de techniciens et de cadres de haut niveau capables de servir de courroie de transmission entre le technicien supérieur et l'ingénieur concepteur.La FST Errachidia a ouvert ses portes aux bacheliers scientifiques et techniques en septembre 1994. Elle accueille tous les étudiants résidant les provinces d’Errachidia, Bouarfa et Ouarzazate ainsi que le centre de Midelt.",
+        "picture": "https://orientation-chabab.com/images/logo/FST_Errachidia.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "FST B.P.: 509 Boutalamine, Errachidia Maroc",
+        "site": "www.fste-umi.ac.ma",
+        "email": "doyen@fste-umi.ac.ma",
+        "tel": "0535574497"
+    },
+    {
+        "NomEcole": "FST",
+        "Ville": "fes",
+        "formations": ["DUT", "Licence", "Master", "Doctorat", "Diplôme d’Ingénieur d’Etat"],
+        "filieres": [
+            "Sciences de la Vie",
+            "Sciences de la Terre",
+            "Génie Chimique",
+            "Physique",
+            "Mathématiques",
+            "Génie Informatique",
+            "Génie Electrique",
+            " Génie Mécanique",
+            "Langues"
+        ],
+        "intro": "Faculté des Sciences et Techniques Fès : ( FST Fès ou FSTF Fès ), est un établissement universitaire à caractère scientifique et technique, La FST est destinée à s'intégrer dans le pôle technologique et industriel de la région pour être une pépinière de techniciens et de cadres de haut niveau capables de servir de courroie de transmission entre le technicien supérieur et l'ingénieur concepteur.La Faculté des Sciences et Techniques de Fès ( FSTF ou FST Fès ) a été créée en 1995. Elle fait partie d’un réseau national formé de 6 autres établissements du même genre situés à Béni Mellal, Errachidia, Marrakech, Mohammédia, Settat et Tanger. Les facultés des Sciences et Techniques sont des établissements universitaires à caractère scientifique et technique. Elles ont été créées dans le but de développer et de diversifier les formations offertes aux bacheliers scientifiques en vue d’une meilleure intégration de l’Université dans son environnement socio-économique.",
+        "picture": "https://orientation-chabab.com/images/logo/FST_Fes.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": " FST DE FES B.P. 2202 – Route d’Imouzzer FES – MAROC",
+        "site": "www.fst-usmba.ac.ma",
+        "email": "taachibat@yahoo.",
+        "tel": "0535 60 80 14 / 0535 60 96 35 / 0535 60 29 53"
+    },
+    {
+        "NomEcole": "FST",
+        "Ville": "hoceima",
+        "formations": ["DUT", "Licence", "Master", "Doctorat", "Diplôme d’Ingénieur d’Etat"],
+        "filieres": [
+            "Sciences de la Vie",
+            "Sciences de la Terre",
+            "Génie Chimique",
+            "Physique",
+            "Mathématiques",
+            "Génie Informatique",
+            "Génie Electrique",
+            " Génie Mécanique",
+            "Langues"
+        ],
+        "intro": "Faculté des Sciences et Techniques Al Hoceima : ( FST Al Hoceima ou FSTH Al Hoceima ), est un établissement universitaire à caractère scientifique et technique, La FST est destinée à s'intégrer dans le pôle technologique et industriel de la région pour être une pépinière de techniciens et de cadres de haut niveau capables de servir de courroie de transmission entre le technicien supérieur et l'ingénieur concepteur.La création de la FST Hoceima s’inscrit en droite ligne des Hautes Orientations Royales pour la consécration de la régionalisation et de la décentralisation dans les domaines de l’éducation et de la formation en appui au processus de réformes de l’enseignement supérieur. C’est dans cet esprit que l’Université Mohammed Premier d’Oujda a créé la Faculté des Sciences et Techniques d’Al Hoceima Faculté des Sciences et Techniques Hoceima pour former plus de cadres moyens et supérieurs immédiatement opérationnels, familiarisés avec le monde du travail et possédant les compétences adaptées aux nouvelles exigences du système productif. Les lauréats de la FST d'Al Hoceima constitueront aussi le socle de l’auto-emploi et de l’entreprenariat. La FSTH offrira des parcours complets de formation dans tous les domaines des sciences et de l’ingénierie à travers le grand éventail de diplômes qu’elle délivrera. De par sa vocation, elle assurera des liens privilégiés avec le monde de l'entreprise. ",
+        "picture": "https://orientation-chabab.com/images/logo/FST_Hoceima.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": " Université Mohammed Premier - Oujda Faculté des Sciences et Techniques - Al Hoceima B.P. 524 Oujda 60050",
+        "site": "www.ump.ma",
+        "email": "decanat.fsth@ump.ma",
+        "tel": "0536500612/14"
+    },
+    {
+        "NomEcole": "FST",
+        "Ville": "marrakech",
+        "formations": ["DUT", "Licence", "Master", "Doctorat", "Diplôme d’Ingénieur d’Etat"],
+        "filieres": [
+            "Sciences de la Vie",
+            "Sciences de la Terre",
+            "Génie Chimique",
+            "Physique",
+            "Mathématiques",
+            "Génie Informatique",
+            "Génie Electrique",
+            " Génie Mécanique",
+            "Langues"
+        ],
+        "intro": "Faculté des Sciences et Techniques Marrakech : ( FST Marrakech ou FSTM Marrakech ), est un établissement universitaire à caractère scientifique et technique, La FST est destinée à s'intégrer dans le pôle technologique et industriel de la région pour être une pépinière de techniciens et de cadres de haut niveau capables de servir de courroie de transmission entre le technicien supérieur et l'ingénieur concepteur.La Faculté des Sciences et Techniques de Marrakech (FST Marrakech), est un établissement d'enseignement  supérieur  à caractère scientifique  et  technique.   Elle a été créée en vue de renforcer le potentiel universitaire et technologique de la région  de Marrakech, développer et  diversifier les formations offertes en vue d'une meilleure intégration de  l'Université dans son environnement socio-économique.",
+        "picture": "https://orientation-chabab.com/images/logo/FST_Marrakech.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "Faculté des Sciences et Techniques B.P 549, Av.Abdelkarim Elkhattabi, Guéliz Marrakech",
+        "site": " www.fstg-marrakech.ac.ma",
+        "email": "jbilou@fstg-marrakech.ac.ma",
+        "tel": " 0524 43 34 04"
+    },
+    {
+        "NomEcole": "FST",
+        "Ville": "mohammedia",
+        "formations": ["DUT", "Licence", "Master", "Doctorat", "Diplôme d’Ingénieur d’Etat"],
+        "filieres": [
+            "Sciences de la Vie",
+            "Sciences de la Terre",
+            "Génie Chimique",
+            "Physique",
+            "Mathématiques",
+            "Génie Informatique",
+            "Génie Electrique",
+            " Génie Mécanique",
+            "Langues"
+        ],
+        "intro": "Faculté des Sciences et Techniques Mohammedia : ( FST Mohammedia ou FSTM Mohammedia ), est un établissement universitaire à caractère scientifique et technique, La FST est destinée à s'intégrer dans le pôle technologique et industriel de la région pour être une pépinière de techniciens et de cadres de haut niveau capables de servir de courroie de transmission entre le technicien supérieur et l'ingénieur concepteur.Implantée à Mohammedia, une ville en plein essor industriel entre Rabat (capitale administrative) et Casablanca (capitale économique), la Faculté des Sciences et Techniques Mohammedia (FST Mohammedia) se veut un véritable levier de développement socio-économique de cette région",
+        "picture": "https://orientation-chabab.com/images/logo/FST_Mohammedia.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "BP 146 Mohammadia 20650 Maroc",
+        "site": "  www.fstm.ac.ma",
+        "email": "-",
+        "tel": "0523 31 47 05 / 0523 31 47 08"
+    },
+    {
+        "NomEcole": "FST",
+        "Ville": "settat",
+        "formations": ["DUT", "Licence", "Master", "Doctorat", "Diplôme d’Ingénieur d’Etat"],
+        "filieres": [
+            "Sciences de la Vie",
+            "Sciences de la Terre",
+            "Génie Chimique",
+            "Physique",
+            "Mathématiques",
+            "Génie Informatique",
+            "Génie Electrique",
+            " Génie Mécanique",
+            "Langues"
+        ],
+        "intro": "Faculté des Sciences et Techniques Settat : ( FST Settat ou FSTS Settat ), est un établissement universitaire à caractère scientifique et technique, La FST est destinée à s'intégrer dans le pôle technologique et industriel de la région pour être une pépinière de techniciens et de cadres de haut niveau capables de servir de courroie de transmission entre le technicien supérieur et l'ingénieur concepteur.",
+        "picture": "https://orientation-chabab.com/images/logo/FST_Settat.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "FST de Settat, Km 3, B.P.:577 Route de Casablanca",
+        "site": "www.fsts.ac.ma",
+        "email": "-",
+        "tel": " 0523 40 07 36"
+    },
+    {
+        "NomEcole": "FST",
+        "Ville": "tanger",
+        "formations": ["DUT", "Licence", "Master", "Doctorat", "Diplôme d’Ingénieur d’Etat"],
+        "filieres": [
+            "Sciences de la Vie",
+            "Sciences de la Terre",
+            "Génie Chimique",
+            "Physique",
+            "Mathématiques",
+            "Génie Informatique",
+            "Génie Electrique",
+            " Génie Mécanique",
+            "Langues"
+        ],
+        "intro": "Faculté des Sciences et Techniques Tanger : ( FST Tanger ou FSTT Tanger ), est un établissement universitaire à caractère scientifique et technique, La FST est destinée à s'intégrer dans le pôle technologique et industriel de la région pour être une pépinière de techniciens et de cadres de haut niveau capables de servir de courroie de transmission entre le technicien supérieur et l'ingénieur concepteur.",
+        "picture": "https://orientation-chabab.com/images/logo/FST_Tanger.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "Faculté des Sciences et Techniques de Tanger Ancienne Route de l’Aéroport, Km 10, Ziaten. BP : 416. Tanger - Maroc",
+        "site": " www.fstt.ac.ma",
+        "email": "-",
+        "tel": "0539 39 39 54/55"
+    },
+    {
+        "NomEcole": "EST",
+        "Ville": "Agadir",
+        "formations": ["DUT", "Licence","LP"],
+        "filieres": [
+            "Génie Informatique",
+            "Génie Electrique",
+            " Génie Mécanique",
+            "Techniques de commercialisation et de communication",
+            "Génie urbain et environnement",
+            "Génie biotechnologique",
+            "Organisation et gestion des entreprises",
+            "Techniques comptables",
+            "Maintenance industrielle",
+            "Génie bio-industriel",
+            "Statistique et informatique industrielle",
+            "Maitrise de l’énergie et énergies renouvelables",
+            "Gestion des ressources humaines",
+            "Animation et gestion touristique",
+            "Métiers du web",
+            "Réseaux et télécoms",
+            "Agroalimentaire et génie biologique",
+            "Gestion logistique et transport",
+            "Génie urbain et environnement",
+            "Techniques instrumentales",
+            "Techniques de management"
+        ],
+        "intro": "L’EST– Ecole Supérieure de Technologie – est un établissement supérieur. Dont la durée d’études est de 2 ans (4 semestres).Après les 2 années d’études l’étudiant obtient le diplôme de technicien supérieur. Même après avoir pris le diplôme le lauréat de l’EST Agadir peut postuler pour le concours des écoles d’ingénieurs (telles que ENSA) ou bien écoles de commerce surtout l’ENCG – suivant la filière étudiée – pour accéder à la 3ème année et décrocher le diplôme de ces écoles-là,.La formation à l’EST ,les Ecoles Supérieures de Technologie, est complétée par des stages obligatoires effectués au sein des entreprises.",
+        "picture": "https://cdn-07.9rayti.com/rsrc/cache/widen_224/uploads/2012/07/est-fes-logo.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": " Bd Abderrahim Bouabid, cité Riad Salam BP: S/33 - Agadir",
+        "site": "www.esta.ac.ma/",
+        "email": "-",
+        "tel": "0528232583"
+    },
+    {
+        "NomEcole": "EST",
+        "Ville": " Beni mellal",
+        "formations": ["DUT", "Licence","LP"],
+        "filieres": [
+          "  Techniques de management",
+            "Gestion des ressources humaines",
+            "Gestion d’irrigation et environnement",
+            "Génie mécanique et productique"
 
+        ],
+        "intro": "L’EST– Ecole Supérieure de Technologie – est un établissement supérieur. Dont la durée d’études est de 2 ans (4 semestres).Après les 2 années d’études l’étudiant obtient le diplôme de technicien supérieur. Même après avoir pris le diplôme le lauréat de l’EST Agadir peut postuler pour le concours des écoles d’ingénieurs (telles que ENSA) ou bien écoles de commerce surtout l’ENCG – suivant la filière étudiée – pour accéder à la 3ème année et décrocher le diplôme de ces écoles-là,.La formation à l’EST ,les Ecoles Supérieures de Technologie, est complétée par des stages obligatoires effectués au sein des entreprises.",
+        "picture": "https://cdn-04.9rayti.com/rsrc/cache/widen_224/uploads/2016/05/logo-est-b%C3%A9ni-mellal.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": " BP : 591, Av. Mohammed, 23000, Béni Mellal",
+        "site": "estbm.ac.ma/",
+        "email": "-",
+        "tel": "05 23 48 41 68 "
+    },
+    {
+        "NomEcole": "EST",
+        "Ville": "berrechid",
+        "formations": ["DUT", "Licence","LP"],
+        "filieres": [
+            "Génie Informatique",
+            "Génie Electrique",
+            " Génie Mécanique",
+            "Techniques de commercialisation et de communication",
+            "Génie urbain et environnement",
+            "Génie biotechnologique",
+            "Organisation et gestion des entreprises",
+            "Techniques comptables",
+            "Maintenance industrielle",
+            "Génie bio-industriel",
+            "Statistique et informatique industrielle",
+            "Maitrise de l’énergie et énergies renouvelables",
+            "Gestion des ressources humaines",
+            "Animation et gestion touristique",
+            "Métiers du web",
+            "Réseaux et télécoms",
+            "Agroalimentaire et génie biologique",
+            "Gestion logistique et transport",
+            "Génie urbain et environnement",
+            "Techniques instrumentales",
+            "Techniques de management"
+        ],
+        "intro": "L’EST– Ecole Supérieure de Technologie – est un établissement supérieur. Dont la durée d’études est de 2 ans (4 semestres).Après les 2 années d’études l’étudiant obtient le diplôme de technicien supérieur. Même après avoir pris le diplôme le lauréat de l’EST Agadir peut postuler pour le concours des écoles d’ingénieurs (telles que ENSA) ou bien écoles de commerce surtout l’ENCG – suivant la filière étudiée – pour accéder à la 3ème année et décrocher le diplôme de ces écoles-là,.La formation à l’EST ,les Ecoles Supérieures de Technologie, est complétée par des stages obligatoires effectués au sein des entreprises.",
+        "picture": "https://cdn-06.9rayti.com/rsrc/cache/widen_224/uploads/2012/07/logo-EST-Berrechid.jpg",
+        "PlusDinfo": "lien vers le site",
+        "adresse": " EST Quartier Taqadoum Route aljazair BP 218 Berrechid Maroc",
+        "site": "www.estb.ac.ma",
+        "email": "-",
+        "tel": "0522324758"
+    },
+    {
+        "NomEcole": "EST",
+        "Ville": "casablanca",
+        "formations": ["DUT", "Licence","LP"],
+        "filieres": [
+            "Génie Informatique",
+            "Génie Electrique",
+            " Génie Mécanique",
+            "Techniques de commercialisation et de communication",
+            "Génie urbain et environnement",
+            "Génie biotechnologique",
+            "Organisation et gestion des entreprises",
+            "Techniques comptables",
+            "Maintenance industrielle",
+            "Génie bio-industriel",
+            "Statistique et informatique industrielle",
+            "Maitrise de l’énergie et énergies renouvelables",
+            "Gestion des ressources humaines",
+            "Animation et gestion touristique",
+            "Métiers du web",
+            "Réseaux et télécoms",
+            "Agroalimentaire et génie biologique",
+            "Gestion logistique et transport",
+            "Génie urbain et environnement",
+            "Techniques instrumentales",
+            "Techniques de management"
+        ],
+        "intro": "L’EST– Ecole Supérieure de Technologie – est un établissement supérieur. Dont la durée d’études est de 2 ans (4 semestres).Après les 2 années d’études l’étudiant obtient le diplôme de technicien supérieur. Même après avoir pris le diplôme le lauréat de l’EST Agadir peut postuler pour le concours des écoles d’ingénieurs (telles que ENSA) ou bien écoles de commerce surtout l’ENCG – suivant la filière étudiée – pour accéder à la 3ème année et décrocher le diplôme de ces écoles-là,.La formation à l’EST ,les Ecoles Supérieures de Technologie, est complétée par des stages obligatoires effectués au sein des entreprises.",
+        "picture": "https://cdn-06.9rayti.com/rsrc/cache/widen_224/uploads/2012/07/est-casa-logo.jpg",
+        "PlusDinfo": "lien vers le site",
+        "adresse": " EST Km 7, Route d'El Jadida, BP : 8012, Oasis - Casablanca Maroc",
+        "site": "www.est-uh2c.ac.ma",
+        "email": "-",
+        "tel": "0522231560"
+    },
+    {
+        "NomEcole": "EST",
+        "Ville": "fes",
+        "formations": ["DUT", "Licence","LP"],
+        "filieres": [
+            "Génie Informatique",
+            "Génie Electrique",
+            " Génie Mécanique",
+            "Techniques de commercialisation et de communication",
+            "Génie urbain et environnement",
+            "Génie biotechnologique",
+            "Organisation et gestion des entreprises",
+            "Techniques comptables",
+            "Maintenance industrielle",
+            "Génie bio-industriel",
+            "Statistique et informatique industrielle",
+            "Maitrise de l’énergie et énergies renouvelables",
+            "Gestion des ressources humaines",
+            "Animation et gestion touristique",
+            "Métiers du web",
+            "Réseaux et télécoms",
+            "Agroalimentaire et génie biologique",
+            "Gestion logistique et transport",
+            "Génie urbain et environnement",
+            "Techniques instrumentales",
+            "Techniques de management"
+        ],
+        "intro": "L’EST– Ecole Supérieure de Technologie – est un établissement supérieur. Dont la durée d’études est de 2 ans (4 semestres).Après les 2 années d’études l’étudiant obtient le diplôme de technicien supérieur. Même après avoir pris le diplôme le lauréat de l’EST Agadir peut postuler pour le concours des écoles d’ingénieurs (telles que ENSA) ou bien écoles de commerce surtout l’ENCG – suivant la filière étudiée – pour accéder à la 3ème année et décrocher le diplôme de ces écoles-là,.La formation à l’EST ,les Ecoles Supérieures de Technologie, est complétée par des stages obligatoires effectués au sein des entreprises.",
+        "picture": "https://cdn-07.9rayti.com/rsrc/cache/widen_224/uploads/2012/07/est-fes-logo.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "  EST Route d'Imouzzer, BP : 2427 - Fès Maroc",
+        "site": "www.est-usmba.ac.ma",
+        "email": "-",
+        "tel": "0535600585 "
+    },
+    {
+        "NomEcole": "EST",
+        "Ville": "Guelmim",
+        "formations": ["DUT", "Licence","LP"],
+        "filieres": [
+            "Génie Informatique",
+            "Génie Electrique",
+            " Génie Mécanique",
+            "Techniques de commercialisation et de communication",
+            "Génie urbain et environnement",
+            "Génie biotechnologique",
+            "Organisation et gestion des entreprises",
+            "Techniques comptables",
+            "Maintenance industrielle",
+            "Génie bio-industriel",
+            "Statistique et informatique industrielle",
+            "Maitrise de l’énergie et énergies renouvelables",
+            "Gestion des ressources humaines",
+            "Animation et gestion touristique",
+            "Métiers du web",
+            "Réseaux et télécoms",
+            "Agroalimentaire et génie biologique",
+            "Gestion logistique et transport",
+            "Génie urbain et environnement",
+            "Techniques instrumentales",
+            "Techniques de management"
+        ],
+        "intro": "L’EST– Ecole Supérieure de Technologie – est un établissement supérieur. Dont la durée d’études est de 2 ans (4 semestres).Après les 2 années d’études l’étudiant obtient le diplôme de technicien supérieur. Même après avoir pris le diplôme le lauréat de l’EST Agadir peut postuler pour le concours des écoles d’ingénieurs (telles que ENSA) ou bien écoles de commerce surtout l’ENCG – suivant la filière étudiée – pour accéder à la 3ème année et décrocher le diplôme de ces écoles-là,.La formation à l’EST ,les Ecoles Supérieures de Technologie, est complétée par des stages obligatoires effectués au sein des entreprises.",
+        "picture": "https://cdn-07.9rayti.com/rsrc/cache/widen_224/uploads/2012/07/est-fes-logo.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "Avenue Abdou Maachar Al Balkhi B.P : 1317 Guelmim 81 000",
+        "site": "www.estg.ac.ma/",
+        "email": "-",
+        "tel": "0528770273"
+    },
+    {
+        "NomEcole": "EST",
+        "Ville": "laayoune",
+        "formations": ["DUT", "Licence","LP"],
+        "filieres": [
+            "Génie Informatique",
+            "Génie Electrique",
+            " Génie Mécanique",
+            "Techniques de commercialisation et de communication",
+            "Génie urbain et environnement",
+            "Génie biotechnologique",
+            "Organisation et gestion des entreprises",
+            "Techniques comptables",
+            "Maintenance industrielle",
+            "Génie bio-industriel",
+            "Statistique et informatique industrielle",
+            "Maitrise de l’énergie et énergies renouvelables",
+            "Gestion des ressources humaines",
+            "Animation et gestion touristique",
+            "Métiers du web",
+            "Réseaux et télécoms",
+            "Agroalimentaire et génie biologique",
+            "Gestion logistique et transport",
+            "Génie urbain et environnement",
+            "Techniques instrumentales",
+            "Techniques de management"
+        ],
+        "intro": "L’EST– Ecole Supérieure de Technologie – est un établissement supérieur. Dont la durée d’études est de 2 ans (4 semestres).Après les 2 années d’études l’étudiant obtient le diplôme de technicien supérieur. Même après avoir pris le diplôme le lauréat de l’EST Agadir peut postuler pour le concours des écoles d’ingénieurs (telles que ENSA) ou bien écoles de commerce surtout l’ENCG – suivant la filière étudiée – pour accéder à la 3ème année et décrocher le diplôme de ces écoles-là,.La formation à l’EST ,les Ecoles Supérieures de Technologie, est complétée par des stages obligatoires effectués au sein des entreprises.",
+        "picture": "https://cdn-07.9rayti.com/rsrc/cache/widen_224/uploads/2012/07/est-fes-logo.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "Quartier 25 Mars BP 3007",
+        "site": "estl.uiz.ac.ma",
+        "email": "-",
+        "tel": "05 28 22 71 25"
+    },
+    {
+        "NomEcole": "EST",
+        "Ville": "meknes",
+        "formations": ["DUT", "Licence","LP"],
+        "filieres": [
+            "Génie Informatique",
+            "Génie Electrique",
+            " Génie Mécanique",
+            "Techniques de commercialisation et de communication",
+            "Génie urbain et environnement",
+            "Génie biotechnologique",
+            "Organisation et gestion des entreprises",
+            "Techniques comptables",
+            "Maintenance industrielle",
+            "Génie bio-industriel",
+            "Statistique et informatique industrielle",
+            "Maitrise de l’énergie et énergies renouvelables",
+            "Gestion des ressources humaines",
+            "Animation et gestion touristique",
+            "Métiers du web",
+            "Réseaux et télécoms",
+            "Agroalimentaire et génie biologique",
+            "Gestion logistique et transport",
+            "Génie urbain et environnement",
+            "Techniques instrumentales",
+            "Techniques de management"
+        ],
+        "intro": "L’EST– Ecole Supérieure de Technologie – est un établissement supérieur. Dont la durée d’études est de 2 ans (4 semestres).Après les 2 années d’études l’étudiant obtient le diplôme de technicien supérieur. Même après avoir pris le diplôme le lauréat de l’EST Agadir peut postuler pour le concours des écoles d’ingénieurs (telles que ENSA) ou bien écoles de commerce surtout l’ENCG – suivant la filière étudiée – pour accéder à la 3ème année et décrocher le diplôme de ces écoles-là,.La formation à l’EST ,les Ecoles Supérieures de Technologie, est complétée par des stages obligatoires effectués au sein des entreprises.",
+        "picture": "https://cdn-07.9rayti.com/rsrc/cache/widen_224/uploads/2012/07/est-fes-logo.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": " EST Route d'Agouray, Km 5, BP : 3103, Toulal - Meknès Maroc",
+        "site": "www.est-umi.ac.ma",
+        "email": "-",
+        "tel": "0535467084 "
+    },
+    {
+        "NomEcole": "EST",
+        "Ville": "oujda",
+        "formations": ["DUT", "Licence","LP"],
+        "filieres": [
+            "Génie Informatique",
+            "Génie Electrique",
+            " Génie Mécanique",
+            "Techniques de commercialisation et de communication",
+            "Génie urbain et environnement",
+            "Génie biotechnologique",
+            "Organisation et gestion des entreprises",
+            "Techniques comptables",
+            "Maintenance industrielle",
+            "Génie bio-industriel",
+            "Statistique et informatique industrielle",
+            "Maitrise de l’énergie et énergies renouvelables",
+            "Gestion des ressources humaines",
+            "Animation et gestion touristique",
+            "Métiers du web",
+            "Réseaux et télécoms",
+            "Agroalimentaire et génie biologique",
+            "Gestion logistique et transport",
+            "Génie urbain et environnement",
+            "Techniques instrumentales",
+            "Techniques de management"
+        ],
+        "intro": "L’EST– Ecole Supérieure de Technologie – est un établissement supérieur. Dont la durée d’études est de 2 ans (4 semestres).Après les 2 années d’études l’étudiant obtient le diplôme de technicien supérieur. Même après avoir pris le diplôme le lauréat de l’EST Agadir peut postuler pour le concours des écoles d’ingénieurs (telles que ENSA) ou bien écoles de commerce surtout l’ENCG – suivant la filière étudiée – pour accéder à la 3ème année et décrocher le diplôme de ces écoles-là,.La formation à l’EST ,les Ecoles Supérieures de Technologie, est complétée par des stages obligatoires effectués au sein des entreprises.",
+        "picture": "https://cdn-07.9rayti.com/rsrc/cache/widen_224/uploads/2012/07/est-fes-logo.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "EST Complexe Universitaire, Cité Al Qods, BP : 473 - Oujda Maroc",
+        "site": "esto.ump.ma/",
+        "email": "-",
+        "tel": "0536500224"
+    },
+    {
+        "NomEcole": "EST",
+        "Ville": "safi",
+        "formations": ["DUT", "Licence","LP"],
+        "filieres": [
+            "Génie Informatique",
+            "Génie Electrique",
+            " Génie Mécanique",
+            "Techniques de commercialisation et de communication",
+            "Génie urbain et environnement",
+            "Génie biotechnologique",
+            "Organisation et gestion des entreprises",
+            "Techniques comptables",
+            "Maintenance industrielle",
+            "Génie bio-industriel",
+            "Statistique et informatique industrielle",
+            "Maitrise de l’énergie et énergies renouvelables",
+            "Gestion des ressources humaines",
+            "Animation et gestion touristique",
+            "Métiers du web",
+            "Réseaux et télécoms",
+            "Agroalimentaire et génie biologique",
+            "Gestion logistique et transport",
+            "Génie urbain et environnement",
+            "Techniques instrumentales",
+            "Techniques de management"
+        ],
+        "intro": "L’EST– Ecole Supérieure de Technologie – est un établissement supérieur. Dont la durée d’études est de 2 ans (4 semestres).Après les 2 années d’études l’étudiant obtient le diplôme de technicien supérieur. Même après avoir pris le diplôme le lauréat de l’EST Agadir peut postuler pour le concours des écoles d’ingénieurs (telles que ENSA) ou bien écoles de commerce surtout l’ENCG – suivant la filière étudiée – pour accéder à la 3ème année et décrocher le diplôme de ces écoles-là,.La formation à l’EST ,les Ecoles Supérieures de Technologie, est complétée par des stages obligatoires effectués au sein des entreprises.",
+        "picture": "https://cdn-07.9rayti.com/rsrc/cache/widen_224/uploads/2012/07/est-fes-logo.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "EST BP : 89, Route Dar Si Aissa 46 000- Safi Maroc",
+        "site": "www.ests.ucam.ac.ma",
+        "email": "-",
+        "tel": "0524626066"
+    },
+    {
+        "NomEcole": "EST",
+        "Ville": "sale",
+        "formations": ["DUT", "Licence","LP"],
+        "filieres": [
+            "Génie Informatique",
+            "Génie Electrique",
+            " Génie Mécanique",
+            "Techniques de commercialisation et de communication",
+            "Génie urbain et environnement",
+            "Génie biotechnologique",
+            "Organisation et gestion des entreprises",
+            "Techniques comptables",
+            "Maintenance industrielle",
+            "Génie bio-industriel",
+            "Statistique et informatique industrielle",
+            "Maitrise de l’énergie et énergies renouvelables",
+            "Gestion des ressources humaines",
+            "Animation et gestion touristique",
+            "Métiers du web",
+            "Réseaux et télécoms",
+            "Agroalimentaire et génie biologique",
+            "Gestion logistique et transport",
+            "Génie urbain et environnement",
+            "Techniques instrumentales",
+            "Techniques de management"
+        ],
+        "intro": "L’EST– Ecole Supérieure de Technologie – est un établissement supérieur. Dont la durée d’études est de 2 ans (4 semestres).Après les 2 années d’études l’étudiant obtient le diplôme de technicien supérieur. Même après avoir pris le diplôme le lauréat de l’EST Agadir peut postuler pour le concours des écoles d’ingénieurs (telles que ENSA) ou bien écoles de commerce surtout l’ENCG – suivant la filière étudiée – pour accéder à la 3ème année et décrocher le diplôme de ces écoles-là,.La formation à l’EST ,les Ecoles Supérieures de Technologie, est complétée par des stages obligatoires effectués au sein des entreprises.",
+        "picture": "https://cdn-07.9rayti.com/rsrc/cache/widen_224/uploads/2012/07/est-fes-logo.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "Avenue Prince Héritier Sidi Mohammed, B.P. : 227 Salé médina –Maroc",
+        "site": "www.ests.ma",
+        "email": "-",
+        "tel": "0537881561"
+    },
+    {
+        "NomEcole": "ENS",
+        "Ville": "Casablanca",
+        "formations": ["Licence","Master","Doctorat"],
+        "filieres": [
+            "Cycle Normal: EPS.",
+            "Cycle d’Agrégation: Mathématiques, Physique-Chimie, EPS.",
+            "Cycle Pédagogique: Science de la vie et de la terre, Informatique, Mathématique, Philosophie."
+        ],
+        "intro": "Les ENS – Ecoles Normales Supérieures sont des établissements de formation des cadres qui visent la formation initiale et continue des enseignants du secondaire et des agrégés et la promotion de la recherche scientifique et pédagogique. Les ENS sont sous tutelle des Ministères de l’Education Nationale et de l’Enseignement Supérieur, de la Formation des Cadres et de la Recherche Scientifique.Les programmes de formation à lENS sont destinés à la formation des enseignants du primaire, du secondaire collégial et du secondaire qualifiant dans divers spécialités et disciplines.ENS : Abréviation de l’Ecole Normale Supérieure, une école d’enseignement supérieur et de recherche pour les licenciés qui veulent se former dans l’enseignement de plusieurs disciplines scientifiques et littéraires.",
+        "picture": "https://cdn-04.9rayti.com/rsrc/cache/widen_224/uploads/2012/07/ENS-Casablanca.jpg",
+        "PlusDinfo": "lien vers le site",
+        "adresse": " ENS Route d'El Jadida, BP : 50069, Ghandi  Casablanca Maroc",
+        "site": "www.ens.univcasa.ma/",
+        "email": "-",
+        "tel": "0522232277"
+    },
+    {
+        "NomEcole": "ENS",
+        "Ville": "marrakech",
+        "formations": ["Licence","Master","Doctorat"],
+        "filieres": [
+            "Cycle Normal: EPS.",
+            "Cycle d’Agrégation: Mathématiques, Physique-Chimie, EPS.",
+            "Cycle Pédagogique: Science de la vie et de la terre, Informatique, Mathématique, Philosophie."
+        ],
+        "intro": "Les ENS – Ecoles Normales Supérieures sont des établissements de formation des cadres qui visent la formation initiale et continue des enseignants du secondaire et des agrégés et la promotion de la recherche scientifique et pédagogique. Les ENS sont sous tutelle des Ministères de l’Education Nationale et de l’Enseignement Supérieur, de la Formation des Cadres et de la Recherche Scientifique.Les programmes de formation à lENS sont destinés à la formation des enseignants du primaire, du secondaire collégial et du secondaire qualifiant dans divers spécialités et disciplines.ENS : Abréviation de l’Ecole Normale Supérieure, une école d’enseignement supérieur et de recherche pour les licenciés qui veulent se former dans l’enseignement de plusieurs disciplines scientifiques et littéraires.",
+        "picture": "https://cdn-07.9rayti.com/rsrc/cache/widen_224/uploads/2012/07/logo1_ens-marrakech.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "ENS Route d'Essaouira, El Massira BP 2400. Marrakech Maroc",
+        "site": "www.ens-marrakech.ac.ma",
+        "email": "-",
+        "tel": "0524340125 "
+    },
+    {
+        "NomEcole": "ENS",
+        "Ville": "fes",
+        "formations": ["Licence","Master","Doctorat"],
+        "filieres": [
+            "Cycle Normal: EPS.",
+            "Cycle d’Agrégation: Mathématiques, Physique-Chimie, EPS.",
+            "Cycle Pédagogique: Science de la vie et de la terre, Informatique, Mathématique, Philosophie."
+        ],
+        "intro": "Les ENS – Ecoles Normales Supérieures sont des établissements de formation des cadres qui visent la formation initiale et continue des enseignants du secondaire et des agrégés et la promotion de la recherche scientifique et pédagogique. Les ENS sont sous tutelle des Ministères de l’Education Nationale et de l’Enseignement Supérieur, de la Formation des Cadres et de la Recherche Scientifique.Les programmes de formation à lENS sont destinés à la formation des enseignants du primaire, du secondaire collégial et du secondaire qualifiant dans divers spécialités et disciplines.ENS : Abréviation de l’Ecole Normale Supérieure, une école d’enseignement supérieur et de recherche pour les licenciés qui veulent se former dans l’enseignement de plusieurs disciplines scientifiques et littéraires.",
+        "picture": "https://cdn-07.9rayti.com/rsrc/cache/widen_224/uploads/2012/07/logo1_ens-marrakech.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "ENS Kariat Ben Souda Ahouaz, Oued Fès, BP : 2206 - Fès Maroc",
+        "site": "ens.usmba.ac.ma/",
+        "email": "-",
+        "tel": "0619742734"
+    },
+    {
+        "NomEcole": "ENS",
+        "Ville": "meknes",
+        "formations": ["Licence","Master","Doctorat"],
+        "filieres": [
+            "Cycle Normal: EPS.",
+            "Cycle d’Agrégation: Mathématiques, Physique-Chimie, EPS.",
+            "Cycle Pédagogique: Science de la vie et de la terre, Informatique, Mathématique, Philosophie."
+        ],
+        "intro": "Les ENS – Ecoles Normales Supérieures sont des établissements de formation des cadres qui visent la formation initiale et continue des enseignants du secondaire et des agrégés et la promotion de la recherche scientifique et pédagogique. Les ENS sont sous tutelle des Ministères de l’Education Nationale et de l’Enseignement Supérieur, de la Formation des Cadres et de la Recherche Scientifique.Les programmes de formation à lENS sont destinés à la formation des enseignants du primaire, du secondaire collégial et du secondaire qualifiant dans divers spécialités et disciplines.ENS : Abréviation de l’Ecole Normale Supérieure, une école d’enseignement supérieur et de recherche pour les licenciés qui veulent se former dans l’enseignement de plusieurs disciplines scientifiques et littéraires.",
+        "picture": "https://cdn-05.9rayti.com/rsrc/cache/widen_224/uploads/2012/07/ENS-meknes.jpg",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "ENS BP : 3104 Toulal - Meknès Maroc",
+        "site": "www.ens.umi.ac.ma/index.php/fr/",
+        "email": "-",
+        "tel": "0535533883"
+    },
+    {
+        "NomEcole": "ENS",
+        "Ville": "tetouan",
+        "formations": ["Licence","Master","Doctorat"],
+        "filieres": [
+            "Cycle Normal: EPS.",
+            "Cycle d’Agrégation: Mathématiques, Physique-Chimie, EPS.",
+            "Cycle Pédagogique: Science de la vie et de la terre, Informatique, Mathématique, Philosophie."
+        ],
+        "intro": "Les ENS – Ecoles Normales Supérieures sont des établissements de formation des cadres qui visent la formation initiale et continue des enseignants du secondaire et des agrégés et la promotion de la recherche scientifique et pédagogique. Les ENS sont sous tutelle des Ministères de l’Education Nationale et de l’Enseignement Supérieur, de la Formation des Cadres et de la Recherche Scientifique.Les programmes de formation à lENS sont destinés à la formation des enseignants du primaire, du secondaire collégial et du secondaire qualifiant dans divers spécialités et disciplines.ENS : Abréviation de l’Ecole Normale Supérieure, une école d’enseignement supérieur et de recherche pour les licenciés qui veulent se former dans l’enseignement de plusieurs disciplines scientifiques et littéraires.",
+        "picture": "https://cdn-07.9rayti.com/rsrc/cache/widen_224/uploads/2014/09/logo-ens-tetouan.jpg",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "ENS Avenue Moulay Hassan, BP : 209 Martil - Tétouan Maroc",
+        "site": "www.ens.uae.ma/",
+        "email": "-",
+        "tel": "0539979175 "
+    },
+    {
+        "NomEcole": "ENSET",
+        "Ville": "rabat",
+        "formations": ["Master","Master SP","LP","Diplôme d’Ingénieur d’Etat"],
+        "filieres": [
+           " Génie Logiciel et Réseaux",
+            "Génie Thermique et Energie",
+            "Génie Industriel et Maintenance",
+            "Conception Mécanique et Productique",
+            "Génie Electrique et Informatique Industrielle",
+            "Management des Entreprises"
+        ],
+        "intro": "cole Normale Supérieure de l'Enseignement Technique Rabat : ( ENSET Rabat ), est un établissement de formation des cadres destinés à l'enseignement et au marché du travail. Les formations assurées couvrent les techniques industrielles et les techniques commerciales. l'ENSET assure également des cycles de formation continue pour les jeunes diplômés, les enseignants et les entreprises.En trente ans, l’Ecole Normale Supérieure de l'Enseignement Technique Rabat (ENSET Rabat) s’est forgée une expérience incontestable dans le domaine de la formation à caractère industriel, aussi bien dans le domaine de la formation de cadres enseignants, que celui des cadres techniques destinés à l’industrie. Le nombre de lauréats de l’ENSET Rabat a atteint 3100 cadres. ",
+        "picture": "https://orientation-chabab.com/images/logo/ENSET_Rabat.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "Avenue de l'Armée Royale, Madinat Al Irfane 10100 B.P. 6207 Rabat-Instituts Rabat Maroc",
+        "site": "enset.um5s.ac.ma",
+        "email": "-",
+        "tel": "05 37 56 40 62 / 05 37 56 40 76"
+    },
+    {
+        "NomEcole": "ENSET",
+        "Ville": "mohammedia",
+        "formations": ["Master","Master SP","LP","Diplôme d’Ingénieur d’Etat"],
+        "filieres": [
+           " Génie Logiciel et Réseaux",
+            "Génie Thermique et Energie",
+            "Génie Industriel et Maintenance",
+            "Conception Mécanique et Productique",
+            "Génie Electrique et Informatique Industrielle",
+            "Management des Entreprises"
+        ],
+        "intro": "Ecole Normale Supérieure de l'Enseignement Technique Mohammedia : ( ENSET Mohammedia ), est un établissement de formation des cadres destinés à l'enseignement et au marché du travail. Les formations assurées couvrent les techniques industrielles et les techniques commerciales. l'ENSET assure également des cycles de formation continue pour les jeunes diplômés, les enseignants et les entreprises.",
+        "picture": "https://orientation-chabab.com/images/logo/ENSET_Mohammedia.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "ENSET, BD HASSAN II BP 159 MOHAMMEDIA",
+        "site": "www.enset-media.ac.ma",
+        "email": "enset-media@enset-media.ac.ma",
+        "tel": "0523 32 22 20 / 0523 32 35 30"
+    },
+    {
+        "NomEcole": "EHTP",
+        "Ville": "casablanca",
+        "formations": ["Diplôme d’Ingénieur d’Etat"],
+        "filieres": [
+         "Travaux Publics",
+         "Genie civil",
+         "route",
+         "batiments"
+        ],
+        "intro": "Ecole Hassania des Travaux Publics Casablanca : ( EHTP Casablanca ), est une grande école d’ingénieurs située à Casablanca. Elle a été créée en 1971 par le Ministère des Travaux Publics pour pourvoir le Royaume du Maroc en ingénieurs dans les secteurs des BTP, de l’eau, de l’énergie électrique et de l’aménagement du territoire.En 1993, l’EHTP Casablanca a été érigée en établissement public de formation des cadres sous la tutelle du Ministère de l’Equipement et du Transport.",
+        "picture": "https://orientation-chabab.com/images/logo/EHTP_Rabat.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": " Ecole Hassania des Travaux Publics KM 7, Route D’EL JADIDA, B.P 8108, Oasis, Casablanca, Maroc",
+        "site": "www.ehtp.ac.ma",
+        "email": "ehtpdg@ehtp.ac.ma",
+        "tel": "520 42 05 00"
+    },
+    {
+        "NomEcole": "EMI",
+        "Ville": "Rabat",
+        "formations": ["Diplôme d’Ingénieur d’Etat"],
+        "filieres": [
+           " Génie Civil",
+            "Génie Electrique",
+            "Génie Industriel",
+            "Génie Informatique",
+           " Génie Mécanique",
+            "Génie Minéral",
+            "Génie MIS",
+            "Génie des Procédés"
+        ],
+        "intro": "Ecole Mohammadia d’Ingénieurs Rabat : ( EMI Rabat ), est une grande école d’ingénieurs sise à Rabat au Maroc. Elle est affiliée à l’Université Mohammed V Agdal et fait donc partie du Ministère de l’Education Nationale, de l’Enseignement Supérieur, de la Formation des Cadres et de la Recherche Scientifique.L’Ecole Mohammadia d’Ingénieurs Rabat ( EMI Rabat )  Elle est située au Quartier Agdal où elle occupe une superficie totale de 8 hectares. Son entrée principale donne sur l’avenue Ibn Sina et est agrémentée d’une horloge qui fut réalisée dans les années soixante par des élèves de l’Ecole sous la conduite d’un de leurs professeurs. Toujours opérationnelle, elle symbolise la créativité et le savoir-faire des élèves ingénieurs de l’EMI Rabat.",
+        "picture": "https://orientation-chabab.com/images/logo/EMI_Rabat.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "Ecole Mohammadia d'Ingénieurs, Avenue Ibnsina B.P. 765 Agdal Rabat Maroc",
+        "site": "www.emi.ac.ma",
+        "email": "-",
+        "tel": "0537 77.26.47 /0537 77.19.05/06 / 0537 77.05.98"
+    },
+    {
+        "NomEcole": "ENSIAS",
+        "Ville": "Rabat",
+        "formations": ["Diplôme d’Ingénieur d’Etat"],
+        "filieres": [
+            "- Génie Logiciel",
+           " - Business Intelligence",
+           " - E-logistique",
+            "- Ingénierie des Télécommunication et Réseaux",
+            "- Systèmes Embarqués et Mobiles",
+            "- Sécurité des Systèmes d'Information. " 
+        ],
+        "intro": "cole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat : ( ENSIAS Rabat ), est l'un des neuf établissements de l'Université Mohammed V – Souissi. C'est une grande école d'ingénieurs spécialisée en Technologies de l'Information et de la Communication. Elle a pour missions la formation d'ingénieurs d'état et la recherche en vue du développement technologique et économique du Maroc",
+        "picture": "https://orientation-chabab.com/images/logo/ENSIAS_Rabat.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "ENSIAS, Avenue Mohammed Ben Abdallah Regragui, Madinat Al Irfane, BP 713, Agdal Rabat, Maroc",
+        "site": "www.ensias.ma",
+        "email": "-",
+        "tel": " 0537 77 85 79 / 537 77 77 73"
+    },
+    {
+        "NomEcole": "ENAM",
+        "Ville": "meknes",
+        "formations": ["Diplôme d’Ingénieur d’Etat"],
+        "filieres": [
+            "Arboriculture Fruitière, Oléiculture et Viticulture.",
+            "Protection des Plantes et de l’Environnement.",
+            "Ingénierie Agro-Economiques",
+            "Sciences et Techniques des Production Végétale.",
+            "Productions Animales.",
+            "Ingénierie du Développement."
+        ],
+        "intro": "Ecole Nationale d’Agriculture Meknes Meknès : ( ENAM Meknès ), Créée en 1942, est un établissement public spécialisé dans la formation d’ingénieurs agronomes. A sa création l’ENAM Meknes était nommée Ecole Marocaine d’Agriculture, mais depuis 1957 la dénomination de l’école est devenue Ecole Nationale d’Agriclture Meknes. Sa durée d’études passée de 4 ans à 5 ans (2 ans cycle préparatoire et 3 ans cycle d’ingénieur) comme est le cas pour les autres écoles d’ingénieurs marocaines.",
+        "picture": "https://orientation-chabab.com/images/logo/ENAM_Meknes.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "ENAM Km 10, Route Haj Kaddour, BP : S/40 - Meknès Maroc",
+        "site": "www.enameknes.ma",
+        "email": "ena@enameknes.ac.ma",
+        "tel": "0535 30 02 39"
+    },
+    {
+        "NomEcole": "INSEA",
+        "Ville": "rabat",
+        "formations": ["Diplôme d’Ingénieur d’Etat"],
+        "filieres": [
+            "•Actuariat & finance",
+            "• Informatique",
+            "• Economie appliquée",
+            "• Statistique",
+            "• Recherche opérationnelle",
+            "• Démographie"
+        ],
+        "intro": "Institut National de Statistique et d'Economie Appliquée Rabat : ( INSEA Rabat ), propose une formation qui donne une place égale à la statistique et l'analyse économique, et offre une spécialisation dans les domaines de l'informatique, de la finance de marché et de l'actuariat, de la statistique et l'économie appliquée de la statistique démographique ainsi que de l'aide à la décision et la recherche opérationnelle.",
+        "picture": "https://orientation-chabab.com/images/logo/ENAM_Meknes.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": " Institut National de Statistique et d'Economie Appliquée B.P.:6217 Rabat-Instituts",
+        "site": "www.insea.ac.ma",
+        "email": "www.insea.ac.ma/def.asp?codelangue=23&ref=1",
+        "tel": "0537 77 48 59/60"
+    },
+    {
+        "NomEcole": "INPT",
+        "Ville": "rabat",
+        "formations": ["Diplôme d’Ingénieur d’Etat"],
+        "filieres": [
+            "•Actuariat & finance",
+            "• Informatique",
+            "• Economie appliquée",
+            "• Statistique",
+            "• Recherche opérationnelle",
+            "• Démographie"
+        ],
+        "intro": "Institut National des Postes et Télécommunications Rabat : ( INPT Rabat ), est une des grandes écoles d'ingénieur marocaines opérant dans la formation de cadres supérieurs en Télécoms et Technologies de l'Information, vous accueille avec plaisir sur son site. Le mot du Directeur vous donne en quelques lignes des informations sur son école. L'INPT vous invite à partager ses valeurs , à comprendre ses missions et son organisation , à connaître ses projets Phares , à découvrir l'école à travers une visite virtuelle. De plus, l'école vous présente ses divers projets dans le cadre de l'accompagnement à l'Initiative Nationale pour le Développement Humain .",
+        "picture": "https://orientation-chabab.com/images/logo/ENAM_Meknes.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "Avenue Allal Al Fassi, Madinat Al Irfane - Rabat",
+        "site": "www.inpt.ac.ma",
+        "email": "charifm@inpt.ac.ma",
+        "tel": "0537 77 30 77 / 05 38 00 27 01"
+    },
+    {
+        "NomEcole": "IAV",
+        "Ville": "rabat",
+        "formations": ["Diplôme d’Ingénieur d’Etat"],
+        "filieres": [
+            "Agronomie",
+            "Topographie",
+           " Industries Agricoles et alimentaires",
+            "Ingénierie des productions",
+            "Ressources naturelles environnement",
+            "Architecture du paysage",
+           " Hoticulture",
+            "Zoologie",
+            "Phytopathologie",
+            "Machinisme agricole",
+            "Halieutique",
+            "Production animale",
+            "Sciences Humaines"
+        ],
+        "intro": "IAV Rabat est spécialisée dans la formation en agriculture et filières relatives à ce secteur. C’est pour cela que IAV Rabat fait partie des principales écoles d’ingénieurs au Maroc.L’objectif derrière la création de l’IAV Rabat était de moderniser le secteur de l’agriculture, et en faire un levier de l’économie marocaine. L’institut dispose aussi d’infrastructure permettant d’assurer la recherche scientifique qui s’adresse à des sujets désormais de grand importance : la préservation de l’environnement, La gestion économique de l’eau d’irrigation, l’étude du climat et la mitigation de la sécheresse, diversification des produits agricoles…etc. Pour l’APESA (Année Préparatoire aux Etudes Supérieures en Agronomie) , il s’agit juste de la première année que passe l’étudiant à l’IAV Rabat, ça veut dire qu’une fois sélectionné, l’étudiant passe sa première année préparatoire (APESA) avant de rejoindre la deuxième année, ceux qui ne la réussissent pas ils sont exclus de l’institut.",
+        "picture": "https://orientation-chabab.com/images/logo/ENAM_Meknes.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": " IAV Route Alal lfassi Al Erfane BP : 6202 - Rabat Instituts Maroc",
+        "site": "www.iav.ac.ma",
+        "email": "iav@mtds.com",
+        "tel": "0535771758"
+    },
+    {
+        "NomEcole": "FLSH",
+        "Ville": "agadir",
+        "formations": ["DEUG","LP","LF","License","MASTER","DOCTORAT"],
+        "filieres": [
+            "Lettres et des Sciences Humaines",
+            "Droits",
+            "الشريعة و القانون",
+            "Sciences Humaines"
+        ],
+        "intro": "Faculté des Lettres et des Sciences Humaines : ( FLSH  ou FLSHA  ), est un établissement public d'enseignement supérieur. qui propose des formations en littérature françaises, littérature anglaise, littérature arabes, études Islamiques, études en philosophie et de sociologie et les sciences de géographie et d’histoire.La Faculté des Lettres et des Sciences Humaines d'Agadir (FLSH ou FLSHA) a été créer en 1984 en vertu du décret n° 2.75.662 du 11 octobre 1975 portant la création des nouvelles établissements universitaires.La création de la Faculté des Lettres et des Sciences Humaines d'Agadir (FLSH Agadir ou FLSHA)dans les Régions Sud du Maroc avait pour but le rapprochement de l’établissement universitaire des étudiants et de garantir les conditions nécessaires pour faire face aux nombres croissant des étudiants.",
+        "picture": "https://orientation-chabab.com/images/logo/FLSH_Agadir.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": " Faculté des Lettres et des Sciences Humaines BP 29/S 80000 Agadir-Maroc",
+        "site": " www.flsh-agadir.ac.ma",
+        "email": "-",
+        "tel": "0528 22 08 78 / 0528 22 05 58"
+    },
+    {
+        "NomEcole": "FLSH",
+        "Ville": "beni mellal",
+        "formations": ["DEUG","LP","LF","License","MASTER","DOCTORAT"],
+        "filieres": [
+            "Lettres et des Sciences Humaines",
+            "Droits",
+            "الشريعة و القانون",
+            "Sciences Humaines"
+        ],
+        "intro": "Faculté des Lettres et des Sciences Humaines : ( FLSH  ou FLSHA  ), est un établissement public d'enseignement supérieur. qui propose des formations en littérature françaises, littérature anglaise, littérature arabes, études Islamiques, études en philosophie et de sociologie et les sciences de géographie et d’histoire.La Faculté des Lettres et des Sciences Humaines d'Agadir (FLSH ou FLSHA) a été créer en 1984 en vertu du décret n° 2.75.662 du 11 octobre 1975 portant la création des nouvelles établissements universitaires.La création de la Faculté des Lettres et des Sciences Humaines d'Agadir (FLSH Agadir ou FLSHA)dans les Régions Sud du Maroc avait pour but le rapprochement de l’établissement universitaire des étudiants et de garantir les conditions nécessaires pour faire face aux nombres croissant des étudiants.",
+        "picture": "https://orientation-chabab.com/images/logo/FLSH_Agadir.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "  FACULTÉ DES LETTRES ET DES SCIENCES HUMAINES Avenu Ibn Khaldoun, B.P: 524, Beni Mellal",
+        "site": "www.flshbm.ma",
+        "email": "flshbm@usms.ma",
+        "tel": "0523 48 46 81"
+    },
+    {
+        "NomEcole": "FLSH",
+        "Ville": "casablanca",
+        "formations": ["DEUG","LP","LF","License","MASTER","DOCTORAT"],
+        "filieres": [
+            "Lettres et des Sciences Humaines",
+            "Droits",
+            "الشريعة و القانون",
+            "Sciences Humaines"
+        ],
+        "intro": "Faculté des Lettres et des Sciences Humaines : ( FLSH  ou FLSHA  ), est un établissement public d'enseignement supérieur. qui propose des formations en littérature françaises, littérature anglaise, littérature arabes, études Islamiques, études en philosophie et de sociologie et les sciences de géographie et d’histoire.La Faculté des Lettres et des Sciences Humaines d'Agadir (FLSH ou FLSHA) a été créer en 1984 en vertu du décret n° 2.75.662 du 11 octobre 1975 portant la création des nouvelles établissements universitaires.La création de la Faculté des Lettres et des Sciences Humaines d'Agadir (FLSH Agadir ou FLSHA)dans les Régions Sud du Maroc avait pour but le rapprochement de l’établissement universitaire des étudiants et de garantir les conditions nécessaires pour faire face aux nombres croissant des étudiants.",
+        "picture": "https://orientation-chabab.com/images/logo/FLSH_Casablanca.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "  Faculté des Lettres et Sciences Humaines Casablanca BP.8507 Hay Inara – Casablanca",
+        "site": "www.flsh-uh2c.ac.ma/flsh/",
+        "email": "contact@flsh-uh2c.ac.ma",
+        "tel": "0614 00 04 13 / 14 / 15/ 16"
+    },
+    {
+        "NomEcole": "FLSH",
+        "Ville": "dakhla",
+        "formations": ["DEUG","LP","LF","License","MASTER","DOCTORAT"],
+        "filieres": [
+            "Lettres et des Sciences Humaines",
+            "Droits",
+            "الشريعة و القانون",
+            "Sciences Humaines"
+        ],
+        "intro": "Faculté des Lettres et des Sciences Humaines : ( FLSH  ou FLSHA  ), est un établissement public d'enseignement supérieur. qui propose des formations en littérature françaises, littérature anglaise, littérature arabes, études Islamiques, études en philosophie et de sociologie et les sciences de géographie et d’histoire.La Faculté des Lettres et des Sciences Humaines d'Agadir (FLSH ou FLSHA) a été créer en 1984 en vertu du décret n° 2.75.662 du 11 octobre 1975 portant la création des nouvelles établissements universitaires.La création de la Faculté des Lettres et des Sciences Humaines d'Agadir (FLSH Agadir ou FLSHA)dans les Régions Sud du Maroc avait pour but le rapprochement de l’établissement universitaire des étudiants et de garantir les conditions nécessaires pour faire face aux nombres croissant des étudiants.",
+        "picture": "https://orientation-chabab.com/images/ENCG_Dakhla.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "  Ecole Nationale de Commerce et de Gestion - Dakhla",
+        "site": " www.encg-dakhla.ac.ma",
+        "email": "cencgd@uiz.ac.ma",
+        "tel": "0528 22 71 25"
+    },
+    {
+        "NomEcole": "FLSH",
+        "Ville": "eljadida",
+        "formations": ["DEUG","LP","LF","License","MASTER","DOCTORAT"],
+        "filieres": [
+            "Lettres et des Sciences Humaines",
+            "Droits",
+            "الشريعة و القانون",
+            "Sciences Humaines"
+        ],
+        "intro": "Faculté des Lettres et des Sciences Humaines : ( FLSH  ou FLSHA  ), est un établissement public d'enseignement supérieur. qui propose des formations en littérature françaises, littérature anglaise, littérature arabes, études Islamiques, études en philosophie et de sociologie et les sciences de géographie et d’histoire.La Faculté des Lettres et des Sciences Humaines d'Agadir (FLSH ou FLSHA) a été créer en 1984 en vertu du décret n° 2.75.662 du 11 octobre 1975 portant la création des nouvelles établissements universitaires.La création de la Faculté des Lettres et des Sciences Humaines d'Agadir (FLSH Agadir ou FLSHA)dans les Régions Sud du Maroc avait pour but le rapprochement de l’établissement universitaire des étudiants et de garantir les conditions nécessaires pour faire face aux nombres croissant des étudiants.",
+        "picture": "https://orientation-chabab.com/images/logo/FLSH_El%20jadida.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "  Faculté des Lettres et des Sciences Humaines - El Jadida UCD-FLSHJ",
+        "site": "www.flshj.ucd.ac.ma",
+        "email": "-",
+        "tel": "0523 34 30 58 / 0523 34 21 69 /023"
+    },
+    {
+        "NomEcole": "FLSH",
+        "Ville": "fes",
+        "formations": ["DEUG","LP","LF","License","MASTER","DOCTORAT"],
+        "filieres": [
+            "Lettres et des Sciences Humaines",
+            "Droits",
+            "الشريعة و القانون",
+            "Sciences Humaines"
+        ],
+        "intro": "Faculté des Lettres et des Sciences Humaines : ( FLSH  ou FLSHA  ), est un établissement public d'enseignement supérieur. qui propose des formations en littérature françaises, littérature anglaise, littérature arabes, études Islamiques, études en philosophie et de sociologie et les sciences de géographie et d’histoire.La Faculté des Lettres et des Sciences Humaines d'Agadir (FLSH ou FLSHA) a été créer en 1984 en vertu du décret n° 2.75.662 du 11 octobre 1975 portant la création des nouvelles établissements universitaires.La création de la Faculté des Lettres et des Sciences Humaines d'Agadir (FLSH Agadir ou FLSHA)dans les Régions Sud du Maroc avait pour but le rapprochement de l’établissement universitaire des étudiants et de garantir les conditions nécessaires pour faire face aux nombres croissant des étudiants.",
+        "picture": "https://orientation-chabab.com/images/logo/FLSH_Fes.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": " Dhar El Mehraz B.P 50 Fès 30000 Maroc",
+        "site": "www.fldm-usmba.ac.ma",
+        "email": "lettresdm@menara.ma",
+        "tel": "0535 64 08 43"
+    },
+    {
+        "NomEcole": "FLSH",
+        "Ville": "kenitra",
+        "formations": ["DEUG","LP","LF","License","MASTER","DOCTORAT"],
+        "filieres": [
+            "Lettres et des Sciences Humaines",
+            "Droits",
+            "الشريعة و القانون",
+            "Sciences Humaines"
+        ],
+        "intro": "Faculté des Lettres et des Sciences Humaines : ( FLSH  ou FLSHA  ), est un établissement public d'enseignement supérieur. qui propose des formations en littérature françaises, littérature anglaise, littérature arabes, études Islamiques, études en philosophie et de sociologie et les sciences de géographie et d’histoire.La Faculté des Lettres et des Sciences Humaines d'Agadir (FLSH ou FLSHA) a été créer en 1984 en vertu du décret n° 2.75.662 du 11 octobre 1975 portant la création des nouvelles établissements universitaires.La création de la Faculté des Lettres et des Sciences Humaines d'Agadir (FLSH Agadir ou FLSHA)dans les Régions Sud du Maroc avait pour but le rapprochement de l’établissement universitaire des étudiants et de garantir les conditions nécessaires pour faire face aux nombres croissant des étudiants.",
+        "picture": "https://orientation-chabab.com/images/logo/FLSH_Kenitra.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": " FLSH Kénitra | Adresse : B.P 401, Kénitra - Maroc",
+        "site": " www.univ-ibntofail.ac.ma/flshk/",
+        "email": " mohamed.daoudi@gmail.com",
+        "tel": "0537 32 96 00"
+    },
+    {
+        "NomEcole": "FLSH",
+        "Ville": "marrakech",
+        "formations": ["DEUG","LP","LF","License","MASTER","DOCTORAT"],
+        "filieres": [
+            "Lettres et des Sciences Humaines",
+            "Droits",
+            "الشريعة و القانون",
+            "Sciences Humaines"
+        ],
+        "intro": "Faculté des Lettres et des Sciences Humaines : ( FLSH  ou FLSHA  ), est un établissement public d'enseignement supérieur. qui propose des formations en littérature françaises, littérature anglaise, littérature arabes, études Islamiques, études en philosophie et de sociologie et les sciences de géographie et d’histoire.La Faculté des Lettres et des Sciences Humaines d'Agadir (FLSH ou FLSHA) a été créer en 1984 en vertu du décret n° 2.75.662 du 11 octobre 1975 portant la création des nouvelles établissements universitaires.La création de la Faculté des Lettres et des Sciences Humaines d'Agadir (FLSH Agadir ou FLSHA)dans les Régions Sud du Maroc avait pour but le rapprochement de l’établissement universitaire des étudiants et de garantir les conditions nécessaires pour faire face aux nombres croissant des étudiants.",
+        "picture": "https://orientation-chabab.com/images/logo/FLSH_Marrakech.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "Marrakech",
+        "site": "www.flm.ucam.ac.ma",
+        "email": "-",
+        "tel": "0524 30 27 42"
+    },
+    {
+        "NomEcole": "FLSH",
+        "Ville": "meknes",
+        "formations": ["DEUG","LP","LF","License","MASTER","DOCTORAT"],
+        "filieres": [
+            "Lettres et des Sciences Humaines",
+            "Droits",
+            "الشريعة و القانون",
+            "Sciences Humaines"
+        ],
+        "intro": "Faculté des Lettres et des Sciences Humaines : ( FLSH  ou FLSHA  ), est un établissement public d'enseignement supérieur. qui propose des formations en littérature françaises, littérature anglaise, littérature arabes, études Islamiques, études en philosophie et de sociologie et les sciences de géographie et d’histoire.La Faculté des Lettres et des Sciences Humaines d'Agadir (FLSH ou FLSHA) a été créer en 1984 en vertu du décret n° 2.75.662 du 11 octobre 1975 portant la création des nouvelles établissements universitaires.La création de la Faculté des Lettres et des Sciences Humaines d'Agadir (FLSH Agadir ou FLSHA)dans les Régions Sud du Maroc avait pour but le rapprochement de l’établissement universitaire des étudiants et de garantir les conditions nécessaires pour faire face aux nombres croissant des étudiants.",
+        "picture": "https://orientation-chabab.com/images/logo/FLSH_Meknes.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "FLSH B.P : 11202 Zaytoun, Meknes 50 000 Maroc",
+        "site": "www.flsh-umi.ac.ma",
+        "email": "doyen@flsh-umi.ac.ma",
+        "tel": "0535 53 70 12"
+    },
+    {
+        "NomEcole": "FLSH",
+        "Ville": "mohamedia",
+        "formations": ["DEUG","LP","LF","License","MASTER","DOCTORAT"],
+        "filieres": [
+            "Lettres et des Sciences Humaines",
+            "Droits",
+            "الشريعة و القانون",
+            "Sciences Humaines"
+        ],
+        "intro": "Faculté des Lettres et des Sciences Humaines : ( FLSH  ou FLSHA  ), est un établissement public d'enseignement supérieur. qui propose des formations en littérature françaises, littérature anglaise, littérature arabes, études Islamiques, études en philosophie et de sociologie et les sciences de géographie et d’histoire.La Faculté des Lettres et des Sciences Humaines d'Agadir (FLSH ou FLSHA) a été créer en 1984 en vertu du décret n° 2.75.662 du 11 octobre 1975 portant la création des nouvelles établissements universitaires.La création de la Faculté des Lettres et des Sciences Humaines d'Agadir (FLSH Agadir ou FLSHA)dans les Régions Sud du Maroc avait pour but le rapprochement de l’établissement universitaire des étudiants et de garantir les conditions nécessaires pour faire face aux nombres croissant des étudiants.",
+        "picture": "https://orientation-chabab.com/images/logo/FLSH_Mohammedia.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "FLSH Boulevard Hassan II, B.P 564 Mohammedia, Maroc",
+        "site": "www.flshm.univh2m.ma",
+        "email": "f.mohammedia@yahoo.fr",
+        "tel": "0523 73 48 32/ 74"
+    },
+    {
+        "NomEcole": "FLSH",
+        "Ville": "rabat",
+        "formations": ["DEUG","LP","LF","License","MASTER","DOCTORAT"],
+        "filieres": [
+            "Lettres et des Sciences Humaines",
+            "Droits",
+            "الشريعة و القانون",
+            "Sciences Humaines"
+        ],
+        "intro": "Faculté des Lettres et des Sciences Humaines : ( FLSH  ou FLSHA  ), est un établissement public d'enseignement supérieur. qui propose des formations en littérature françaises, littérature anglaise, littérature arabes, études Islamiques, études en philosophie et de sociologie et les sciences de géographie et d’histoire.La Faculté des Lettres et des Sciences Humaines d'Agadir (FLSH ou FLSHA) a été créer en 1984 en vertu du décret n° 2.75.662 du 11 octobre 1975 portant la création des nouvelles établissements universitaires.La création de la Faculté des Lettres et des Sciences Humaines d'Agadir (FLSH Agadir ou FLSHA)dans les Régions Sud du Maroc avait pour but le rapprochement de l’établissement universitaire des étudiants et de garantir les conditions nécessaires pour faire face aux nombres croissant des étudiants.",
+        "picture": "https://orientation-chabab.com/images/logo/FLSH_Rabat.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "Faculté des Lettres et des Sciences Humaines BP. 1040 - Rabat R.P",
+        "site": "www.flshr.ac.ma",
+        "email": "-",
+        "tel": "0537 77 18 73/77- 0537 77 18 93- 0537 77 73 71"
+    },
+    {
+        "NomEcole": "FLSH",
+        "Ville": "tetouan",
+        "formations": ["DEUG","LP","LF","License","MASTER","DOCTORAT"],
+        "filieres": [
+            "Lettres et des Sciences Humaines",
+            "Droits",
+            "الشريعة و القانون",
+            "Sciences Humaines"
+        ],
+        "intro": "Faculté des Lettres et des Sciences Humaines : ( FLSH  ou FLSHA  ), est un établissement public d'enseignement supérieur. qui propose des formations en littérature françaises, littérature anglaise, littérature arabes, études Islamiques, études en philosophie et de sociologie et les sciences de géographie et d’histoire.La Faculté des Lettres et des Sciences Humaines d'Agadir (FLSH ou FLSHA) a été créer en 1984 en vertu du décret n° 2.75.662 du 11 octobre 1975 portant la création des nouvelles établissements universitaires.La création de la Faculté des Lettres et des Sciences Humaines d'Agadir (FLSH Agadir ou FLSHA)dans les Régions Sud du Maroc avait pour but le rapprochement de l’établissement universitaire des étudiants et de garantir les conditions nécessaires pour faire face aux nombres croissant des étudiants.",
+        "picture": "https://orientation-chabab.com/images/logo/FLSH_Tetouan.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "FLSH, B.P 210 Martil, Tétouan",
+        "site": "www.flshr.ac.ma",
+        "email": "-",
+        "tel": "0539 68.96.59 / 97.90.53"
+    },
+    {
+        "NomEcole": "FMP",
+        "Ville": "tanger",
+        "formations": ["Medecin"],
+        "filieres": [
+            "Médecine générale",
+               " Pharmacie"
+        ],
+        "intro": "Les Facultés de Médecine et de Pharmacie au Maroc – les FMP - jouent un rôle primordial dans la formation de médecins dans diverses spécialités. La première faculté de médecine ayant été crée au Maroc c’est FMP Rabat. On compte déjà 5 facultés de médecine et de pharmacie au Maroc : FMP Casa, FMP Rabat, FMP Fès, FMP Oujda et FMP Marrakech.Les Facultés de médecine et de pharmacie au Maroc forment depuis des années des médecins dans des spécialités différentes. Malgré le manque à gagner en matière du service de santé (notre très réduit d’hôpitaux et de médecins) , le pari peut-être gagné avec l’augmentation graduelle des facultés de médecine et de pharmacie au Maroc.",
+        "picture": "https://cdn-06.9rayti.com/rsrc/cache/widen_224/uploads/2016/05/logo-FMP-Tanger.jpg",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "-",
+        "site": "-",
+        "email": "-",
+        "tel": "-"
+    },
+    {
+        "NomEcole": "FMP",
+        "Ville": "agadir",
+        "formations": ["Medecin"],
+        "filieres": [
+            "Médecine générale",
+            " Pharmacie"
+        ],
+        "intro": "Les Facultés de Médecine et de Pharmacie au Maroc – les FMP - jouent un rôle primordial dans la formation de médecins dans diverses spécialités. La première faculté de médecine ayant été crée au Maroc c’est FMP Rabat. On compte déjà 5 facultés de médecine et de pharmacie au Maroc : FMP Casa, FMP Rabat, FMP Fès, FMP Oujda et FMP Marrakech.Les Facultés de médecine et de pharmacie au Maroc forment depuis des années des médecins dans des spécialités différentes. Malgré le manque à gagner en matière du service de santé (notre très réduit d’hôpitaux et de médecins) , le pari peut-être gagné avec l’augmentation graduelle des facultés de médecine et de pharmacie au Maroc.",
+        "picture": "https://cdn-07.9rayti.com/rsrc/cache/widen_224/uploads/default_school_logo.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "-",
+        "site": "-",
+        "email": "-",
+        "tel": "-"
+    },
+    {
+        "NomEcole": "FMP",
+        "Ville": "oujda",
+        "formations": ["Medecin"],
+        "filieres": [
+            "Médecine générale",
+               " Pharmacie"
+        ],
+        "intro": "Les Facultés de Médecine et de Pharmacie au Maroc – les FMP - jouent un rôle primordial dans la formation de médecins dans diverses spécialités. La première faculté de médecine ayant été crée au Maroc c’est FMP Rabat. On compte déjà 5 facultés de médecine et de pharmacie au Maroc : FMP Casa, FMP Rabat, FMP Fès, FMP Oujda et FMP Marrakech.Les Facultés de médecine et de pharmacie au Maroc forment depuis des années des médecins dans des spécialités différentes. Malgré le manque à gagner en matière du service de santé (notre très réduit d’hôpitaux et de médecins) , le pari peut-être gagné avec l’augmentation graduelle des facultés de médecine et de pharmacie au Maroc.",
+        "picture": "https://cdn-04.9rayti.com/rsrc/cache/widen_224/uploads/2013/09/FMPO1.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": " Faculté de Médecine et de Pharmacie Oujda B.P 4867 Oujda l'Université-C.P 60049 Oujda-Maroc",
+        "site": "-",
+        "email": "fmpo.ump.ma/",
+        "tel": "0536531414 "
+    },
+    {
+        "NomEcole": "FMP",
+        "Ville": "fes",
+        "formations": ["Medecin"],
+        "filieres": [
+            "Médecine générale",
+            " Pharmacie"
+        ],
+        "intro": "Les Facultés de Médecine et de Pharmacie au Maroc – les FMP - jouent un rôle primordial dans la formation de médecins dans diverses spécialités. La première faculté de médecine ayant été crée au Maroc c’est FMP Rabat. On compte déjà 5 facultés de médecine et de pharmacie au Maroc : FMP Casa, FMP Rabat, FMP Fès, FMP Oujda et FMP Marrakech.Les Facultés de médecine et de pharmacie au Maroc forment depuis des années des médecins dans des spécialités différentes. Malgré le manque à gagner en matière du service de santé (notre très réduit d’hôpitaux et de médecins) , le pari peut-être gagné avec l’augmentation graduelle des facultés de médecine et de pharmacie au Maroc.",
+        "picture": "https://cdn-07.9rayti.com/rsrc/cache/widen_224/uploads/2012/07/FMP-Fes.jpg",
+        "PlusDinfo": "lien vers le site",
+        "adresse": " B.P. 1893 ; Km 2.200 Route de Sidi Harazem Fès 30000",
+        "site": "www.fmp-usmba.ac.ma",
+        "email": "fmpo.ump.ma/",
+        "tel": "0535619319 "
+    },
+    {
+        "NomEcole": "FMP",
+        "Ville": "rabat",
+        "formations": ["Medecin"],
+        "filieres": [
+            "Médecine générale",
+               " Pharmacie"
+        ],
+        "intro": "Les Facultés de Médecine et de Pharmacie au Maroc – les FMP - jouent un rôle primordial dans la formation de médecins dans diverses spécialités. La première faculté de médecine ayant été crée au Maroc c’est FMP Rabat. On compte déjà 5 facultés de médecine et de pharmacie au Maroc : FMP Casa, FMP Rabat, FMP Fès, FMP Oujda et FMP Marrakech.Les Facultés de médecine et de pharmacie au Maroc forment depuis des années des médecins dans des spécialités différentes. Malgré le manque à gagner en matière du service de santé (notre très réduit d’hôpitaux et de médecins) , le pari peut-être gagné avec l’augmentation graduelle des facultés de médecine et de pharmacie au Maroc.",
+        "picture": "https://cdn-06.9rayti.com/rsrc/cache/widen_224/uploads/2012/07/FMP-Rabat.jpg",
+        "PlusDinfo": "lien vers le site",
+        "adresse": " Av. Mohamed Belarbi El Alaoui B.P. : 6203 Rabat Institut",
+        "site": "www.medramo.ac.ma",
+        "email": "fmpo.ump.ma/",
+        "tel": "0537772982  "
+    },
+    {
+        "NomEcole": "FMP",
+        "Ville": "casablanca",
+        "formations": ["Medecin"],
+        "filieres": [
+            "Médecine générale",
+            " Pharmacie"
+        ],
+        "intro": "Les Facultés de Médecine et de Pharmacie au Maroc – les FMP - jouent un rôle primordial dans la formation de médecins dans diverses spécialités. La première faculté de médecine ayant été crée au Maroc c’est FMP Rabat. On compte déjà 5 facultés de médecine et de pharmacie au Maroc : FMP Casa, FMP Rabat, FMP Fès, FMP Oujda et FMP Marrakech.Les Facultés de médecine et de pharmacie au Maroc forment depuis des années des médecins dans des spécialités différentes. Malgré le manque à gagner en matière du service de santé (notre très réduit d’hôpitaux et de médecins) , le pari peut-être gagné avec l’augmentation graduelle des facultés de médecine et de pharmacie au Maroc.",
+        "picture": "https://cdn-07.9rayti.com/rsrc/cache/widen_224/uploads/2012/07/FMP-casablanca1.jpg",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "Rue Tariq Bnou Ziad, Mers Sultan BP: 9167 Casablanca",
+        "site": "www.fmpc.ac.ma/",
+        "email": "fmpo.ump.ma/",
+        "tel": "0522433053 "
+    },
+    {
+        "NomEcole": "ENSAM",
+        "Ville": "casablanca",
+        "formations": ["Diplôme d’Ingénieur d’Etat"],
+        "filieres": [
+           " Génie mécanique:",
+            "Option: Conception des Produits Nouveaux (CPN)",
+            "Option: Construction d’Ouvrages Métalliques (COM)",
+            "Option: Efficacité et Performance Enérgetique Industrielle (EFPEI)",
+            "-Génie industriel:",
+           " Option: Management des Systémes Industriels (MSI)",
+           " Option: Gestion de Projets Technologiques (GPT)",
+            "-Génie électrique:",
+            "Option: Performance des Systèmes Eléctrotechniques (PSE)",
+           " Option: ElectroMécanique Industrielle (EMI)",
+            "Option: Automatisme Avancé et Robotique Industrielle (AARI)"
+            
+        ],
+        "intro": "L’ENSAM - Ecole Nationale Supérieure des Arts et Métiers est une grande école d’ingénieurs au Maroc rattachée au ministère de l’enseignement supérieur, de la recherche scientifique et de la formation des cadres. Elle a pour mission principale la formation des ingénieurs d’Etats Arts et Métiers dans les différentes disciplines de l’industrie.L’ENSAM offre des formations dans les filières suivantes : Génie mécanique et structures, Génie industriel et productique, Génie électromécanique, Génie des matériaux et ingénierie de procédés de fabrication. Ces formations sont sanctionnées par un diplôme d’Etats Arts et Métiers à forte employabilité.",
+        "picture": "https://cdn-06.9rayti.com/rsrc/cache/widen_224/uploads/2013/12/10353394_804214512922188_8139371147227767928_o-Copie.jpg",
+        "PlusDinfo": "lien vers le site",
+        "adresse": " Ecole Nationale Supérieure d'Arts et Métiers-Avenue Nile 150 Casablanca, Grand Casablanca CP",
+        "site": "www.ensam-casa.ma/",
+        "email": "-",
+        "tel": "0661694170  "
+    },
+    {
+        "NomEcole": "ENSAM",
+        "Ville": "meknes",
+        "formations": ["Diplôme d’Ingénieur d’Etat"],
+        "filieres": [
+           " Génie mécanique",
+            "Génie industriel et productique",
+            "Génie électromécanique",
+            "Génie des matériaux et ingénierie des procédés de fabrication"
+            
+        ],
+        "intro": "L’ENSAM - Ecole Nationale Supérieure des Arts et Métiers est une grande école d’ingénieurs au Maroc rattachée au ministère de l’enseignement supérieur, de la recherche scientifique et de la formation des cadres. Elle a pour mission principale la formation des ingénieurs d’Etats Arts et Métiers dans les différentes disciplines de l’industrie.L’ENSAM offre des formations dans les filières suivantes : Génie mécanique et structures, Génie industriel et productique, Génie électromécanique, Génie des matériaux et ingénierie de procédés de fabrication. Ces formations sont sanctionnées par un diplôme d’Etats Arts et Métiers à forte employabilité.",
+        "picture": "https://cdn-06.9rayti.com/rsrc/cache/widen_224/uploads/2012/07/ENSAM.jpg",
+        "PlusDinfo": "lien vers le site",
+        "adresse": " ENSAM Marjane II, BP : 4024, Beni M'Hamed - Meknès Ismaïlia",
+        "site": "www.ensam-casa.ma/",
+        "email": "-",
+        "tel": "0535467160"
+    },
+    {
+        "NomEcole": "AIAC",
+        "Ville": "casablanca",
+        "formations": ["Diplôme d’Ingénieur d’Etat","Master en Management du Transport Aérien.",
+            "Masters Professionnels et Licences Spécialisées en Aéronautique."],
+        "filieres": [
+           " Contrôle de la Navigation Aérienne.",
+            "Electronique de la Sécurité de la Circulation Aérienne.",
+           " Génie Éclectique, Électronique et Télécom.",
+           " Génie Industriel et Productique.",
+           " Génie Informatique."
+        ],
+        "intro": "L’Académie Internationale Mohammed VI de l’Aviation Civile (AIAC) est un établissement d’enseignement supérieur créé en 2000 par le Roi Mohammed VI dans le but de former contrôleurs aériens, électroniciens de la sécurité aérienne et ingénieurs.Placée sous l’autorité de l’Office National Des Aéroports (ONDA) et la tutelle du Ministère de l’Equipement et du Transport, l’enseignement dispensé par l’Académie est fondé sur les normes et pratiques recommandées de l’Organisation de l’Aviation Civile Internationale (OACI).La formation d’ingénieur conduit au diplôme d’ingénieur d’État au sein de l’AIAC, reconnu par le conseil national des titres et visé par l’Université de Casablanca conformément aux dispositions de la Loi n°01.00 portant organisation de l’enseignement supérieur.",
+        "picture": "https://cdn-03.9rayti.com/rsrc/cache/widen_224/uploads/2012/07/Master-AIAC.png",
+        "PlusDinfo": "lien vers le site",
+        "adresse": "AIAC, Technopole de l'Aéroport Mohammed V, Nouasser, Casablanca, Maroc",
+        "site": "aiacingenieur.ma",
+        "email": "-",
+        "tel": "0522538480 / 0522538380 "
+    }
 ]
+
+
+

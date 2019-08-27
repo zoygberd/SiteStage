@@ -1,6 +1,6 @@
 <div class="Sousheader">
     
-    <div class="myMed media">
+<div class="myMed media">
       <img src="images/logo.png" class="align-self-center mr-3" alt="...">
       <div class="Unephoto media-body">
         <h5 class="mt-0">Orientation Maroc.com</h5>
@@ -9,8 +9,8 @@
       </div>
      
   </div> 
-  <div class="boutonsC float-left">
-     <a href="./login/inscription.php"> <button type="button" class="btn btn-outline-primary">Inscrivez Vous</button></a>
-      <a href="./login/seConn.php"><button type="button" class="btn btn-outline-warning">Se connecter</button></a>
+  <div class="boutonsC2 float-right">
+     <a href="./login/inscription.php"><button style="background-color:#35424a" type="button" class="btn btn-outline-primary">Inscrivez Vous</button></a>
+      <a href="./login/seConn.php"><button style="background-color:#35424a" type="button" class="btn btn-outline-warning">Se connecter</button></a>
     </div>
   </div>

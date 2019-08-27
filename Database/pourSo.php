@@ -10,12 +10,15 @@ if(isset($_GET['newB'])){
     $textfield= $_GET['textfield'];
     $photo= $_GET['photo'];
     $intro= $_GET['intro'];
+    $filieres=$_GET['filieres'];
+    $link=$_GET['link'];
+    $pour=$_GET['pour'];
 
     include "pdo2.inc";
     $pdo = connecto();
-    $req = "INSERT INTO invit(titre,date,concerne,dossier,text_ab,etapes_conc,Ecole,ville,photo,intro) VALUES(?,?,?,?,?,?,?,?,?,?)";
+    $req = "INSERT INTO invit(titre,date,concerne,dossier,text_ab,etapes_conc,Ecole,ville,photo,intro,link,filieres,pour) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?)";
     $t = $pdo->prepare($req);
-    $t->execute([$titre,$date,$concerne,$dossier,$textfield,$etapes,$Ecole,$ville,$photo,$intro]);
+    $t->execute([$titre,$date,$concerne,$dossier,$textfield,$etapes,$Ecole,$ville,$photo,$intro,$link,$filieres,$pour]);
     header('location: ../index.php');
     
 }
